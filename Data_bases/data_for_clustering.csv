@@ -1,0 +1,1360 @@
+brand,model,battery_capacity_(mah),screen_size_(inches),touchscreen,resolution_x,resolution_y,processor,ram_(mb),internal_storage_(gb),rear_camera,front_camera,operating_system,wi-fi,bluetooth,gps,number_of_sims,3g,4g/_lte,price
+OnePlus,7T Pro McLaren Edition,4085,6.67,Yes,1440,3120,8,12000,256.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,707.98
+Realme,X2 Pro,4000,6.5,Yes,1080,2400,8,6000,64.0,64.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,335.99
+Apple,iPhone 11 Pro Max,3969,6.5,Yes,1242,2688,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,1282.80
+Apple,iPhone 11,3110,6.1,Yes,828,1792,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,754.80
+LG,G8X ThinQ,4000,6.4,Yes,1080,2340,8,6000,128.0,12.0,32.0,Android,Yes,Yes,Yes,1,No,No,599.88
+OnePlus,7T,3800,6.55,Yes,1080,2400,8,8000,128.0,48.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,419.16
+OnePlus,7T Pro,4085,6.67,Yes,1440,3120,8,8000,256.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,635.88
+Samsung,Galaxy Note 10+,4300,6.8,Yes,1440,3040,8,12000,256.0,12.0,10.0,Android,Yes,Yes,Yes,2,Yes,Yes,956.39
+Asus,ROG Phone 2,6000,6.59,Yes,1080,2340,8,8000,128.0,48.0,24.0,Android,Yes,Yes,Yes,1,Yes,Yes,455.99
+Xiaomi,Redmi K20 Pro,4000,6.39,Yes,1080,2340,8,6000,128.0,48.0,20.0,Android,Yes,Yes,Yes,2,No,No,278.28
+Oppo,K3,3765,6.5,Yes,1080,2340,8,6000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,287.88
+Realme,X,3765,6.53,Yes,1080,2340,8,4000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.99
+Xiaomi,Redmi K20,4000,6.39,Yes,1080,2340,8,6000,64.0,48.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,231.38
+OnePlus,7 Pro,4000,6.67,Yes,1440,3120,8,6000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,479.94
+Oppo,Reno 10x Zoom,4065,6.6,Yes,1080,2340,8,6000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,443.88
+Realme,3 Pro,4045,6.3,Yes,1080,2340,8,4000,64.0,16.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.99
+Huawei,P30 Pro,4200,6.47,Yes,1080,2340,8,8000,256.0,40.0,32.0,Android,Yes,Yes,No,2,Yes,Yes,651.36
+Xiaomi,Redmi Note 7 Pro,4000,6.3,Yes,1080,2340,8,4000,64.0,48.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,117.59
+Huawei,Mate 20 Pro,4200,6.39,Yes,1440,3120,8,6000,128.0,40.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,767.88
+LG,V40 ThinQ,3300,6.4,Yes,1440,3120,8,6000,128.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+OnePlus,6T,3700,6.41,Yes,1080,2340,8,6000,128.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,383.99
+Apple,iPhone XR,2942,6.1,Yes,828,1792,6,3000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,2,Yes,Yes,545.99
+Apple,iPhone XS Max,2658,6.5,Yes,1242,2688,6,4000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,2,Yes,Yes,839.99
+Apple,iPhone XS,2658,5.8,Yes,1125,2436,6,4000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,2,Yes,Yes,719.99
+Google,Pixel 3 XL,3430,6.3,Yes,1440,2960,8,4000,64.0,12.2,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,575.88
+Google,Pixel 3,2915,5.5,Yes,1080,2160,8,4000,64.0,12.2,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,455.99
+Asus,ROG Phone,4000,6.0,Yes,1080,2160,8,8000,128.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,839.99
+Samsung,Galaxy Note 9,4000,6.4,Yes,1440,2960,8,6000,128.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,683.99
+LG,G7+ ThinQ,3000,6.1,Yes,1440,3120,8,6000,128.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,455.99
+Asus,ZenFone Max Pro M1,5000,5.99,Yes,1080,2160,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.88
+Huawei,P20 Pro,4000,6.1,Yes,1080,2240,8,4000,64.0,40.0,24.0,Android,Yes,Yes,Yes,2,No,Yes,599.88
+OnePlus,6,3300,6.28,Yes,1080,2280,8,6000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,419.99
+Asus,ZenFone 5Z (ZS620KL),3300,6.2,Yes,1080,2246,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,227.99
+Xiaomi,Redmi Note 5 Pro,4000,5.99,Yes,1080,2160,8,4000,64.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,112.19
+Nokia,7 Plus,3800,6.0,Yes,1080,2160,8,4000,64.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,144.00
+Samsung,Galaxy S9+,3500,6.2,Yes,1440,2960,8,6000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+Samsung,Galaxy S9,3000,5.8,Yes,1440,2960,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,323.99
+HTC,U11+,3930,6.0,Yes,1440,2560,8,6000,128.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,635.88
+Samsung,Galaxy Note 8,3300,6.3,Yes,1440,2960,8,6000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,599.99
+Apple,iPhone 8,1821,4.7,Yes,750,1334,6,2000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,443.99
+Apple,iPhone 8 Plus,2691,5.5,Yes,1080,1920,6,3000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,564.00
+Apple,iPhone X,2716,5.8,Yes,1125,2436,6,3000,64.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,839.99
+Motorola,Moto Z2 Force,2730,5.5,Yes,1440,2560,8,6000,64.0,12.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,251.99
+HTC,U11,3000,5.5,Yes,1440,2560,8,6000,128.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,647.88
+Nokia,8,3090,5.3,Yes,1440,2560,8,4000,64.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.93
+Samsung,Galaxy S8+,3500,6.2,Yes,1440,2960,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,360.00
+Samsung,Galaxy S8,3000,5.8,Yes,1440,2960,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,323.93
+LG,G6,3300,5.7,Yes,1440,2880,1,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,287.88
+OnePlus,3T,3400,5.5,Yes,1080,1920,4,6000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.99
+Samsung,Galaxy C9 Pro,4000,6.0,Yes,1080,1920,8,6000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,No,Yes,203.99
+Google,Pixel XL,3450,5.5,Yes,1440,2560,4,4000,32.0,12.3,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,371.88
+Apple,iPhone 7 Plus,2900,5.5,Yes,1080,1920,4,3000,32.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,419.99
+Apple,iPhone 7,1960,4.7,Yes,750,1334,4,2000,32.0,12.0,7.0,iOS,Yes,Yes,Yes,1,Yes,Yes,335.99
+Honor,8,3000,5.2,Yes,1080,1920,8,4000,32.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,242.95
+OnePlus,3,3000,5.5,Yes,1080,1920,4,6000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,275.99
+Asus,ZenFone 3 Deluxe (ZS570KL),3000,5.7,Yes,1080,1920,4,6000,256.0,23.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,539.99
+Xiaomi,Mi 5,3000,5.15,Yes,1080,1920,4,3000,32.0,16.0,4.0,Android,Yes,Yes,Yes,2,Yes,Yes,299.99
+Samsung,Galaxy S7 Edge,3600,5.5,Yes,1440,2560,8,4000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,479.95
+Samsung,Galaxy S7,3000,5.1,Yes,1440,2560,8,4000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,287.99
+Motorola,Moto X Force,3760,5.4,Yes,1440,2560,8,3000,32.0,21.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,83.93
+Huawei,Google Nexus 6P,3450,5.7,Yes,1440,2560,8,3000,32.0,12.3,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,515.98
+Apple,iPhone 6s Plus,2750,5.5,Yes,1080,1920,1,2000,16.0,12.0,5.0,iOS,Yes,Yes,Yes,1,Yes,Yes,311.88
+Yu,reka Plus,2500,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Cyanogen,Yes,Yes,Yes,2,Yes,Yes,71.94
+Samsung,Galaxy A8,3050,5.7,Yes,1080,1920,8,2000,32.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,87.59
+Samsung,Galaxy S6,2550,5.1,Yes,1440,2560,8,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,311.99
+Yu,reka,2500,5.5,Yes,720,1280,8,2000,16.0,13.0,5.0,Cyanogen,Yes,Yes,Yes,2,Yes,Yes,47.99
+Xiaomi,Redmi Note,3100,5.5,Yes,720,1280,8,2000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,95.99
+Realme,C3,5000,6.52,Yes,720,1600,8,3000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Poco,X2,4500,6.67,Yes,1080,2400,8,6000,64.0,64.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.99
+Samsung,Galaxy S10 Lite,4500,6.7,Yes,1080,2400,8,8000,128.0,48.0,32.0,Android,Yes,Yes,Yes,1,No,No,479.99
+Realme,5i,5000,6.52,Yes,720,1600,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Samsung,Galaxy Note 10 Lite,4500,6.7,Yes,1080,2400,8,6000,128.0,12.0,32.0,Android,Yes,Yes,Yes,1,No,No,467.99
+Vivo,V17,4500,6.44,Yes,1080,2400,8,8000,128.0,48.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,253.80
+Vivo,U20,5000,6.53,Yes,1080,2340,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+Realme,5s,5000,6.5,Yes,720,1600,8,4000,64.0,48.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Realme,X2,4000,6.4,Yes,1080,2340,8,4000,64.0,64.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,203.99
+Vivo,V17 Pro,4100,6.44,Yes,1080,2400,8,8000,128.0,48.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,314.64
+Nubia,Red Magic 3S,5000,6.65,Yes,1080,2340,8,8000,128.0,48.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,575.99
+Samsung,Galaxy M30s,6000,6.4,Yes,1080,2340,8,4000,64.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+Vivo,Z1x,4500,6.38,Yes,1080,2340,8,4000,128.0,48.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.88
+Oppo,Reno 2Z,4000,6.53,Yes,1080,2340,8,8000,256.0,48.0,16.0,Android,Yes,Yes,No,1,No,No,277.20
+Realme,XT,4000,6.4,Yes,1080,2340,8,4000,64.0,64.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.99
+Xiaomi,Redmi Note 8 Pro,4500,6.53,Yes,1080,2340,8,6000,64.0,64.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.99
+Nokia,7.2,3500,6.3,Yes,1080,2340,8,4000,64.0,48.0,20.0,Android,Yes,Yes,No,2,Yes,Yes,184.52
+Samsung,Galaxy A50s,4000,6.4,Yes,1080,2340,8,4000,128.0,48.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,199.80
+Realme,5 Pro,4035,6.3,Yes,1080,2340,8,4000,64.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.99
+Realme,5,5000,6.5,Yes,720,1600,8,3000,32.0,12.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,103.20
+Vivo,Z1 Pro,5000,6.53,Yes,1080,2340,8,4000,64.0,16.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.88
+Xiaomi,Mi A3,4030,6.08,Yes,720,1560,8,4000,64.0,48.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,142.14
+Asus,6Z,5000,6.4,Yes,1080,2340,8,6000,64.0,48.0,48.0,Android,Yes,Yes,Yes,2,Yes,Yes,335.99
+Samsung,Galaxy M40,3500,6.3,Yes,1080,2340,8,6000,128.0,32.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,202.55
+Xiaomi,Redmi Note 7S,4000,6.3,Yes,1080,2340,8,3000,32.0,48.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,103.79
+Motorola,One Vision,3500,6.3,Yes,1080,2520,8,4000,128.0,48.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,164.28
+Nubia,Red Magic 3,5000,6.65,Yes,1080,2340,8,8000,128.0,48.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,431.99
+Oppo,A9,4020,6.53,Yes,1080,2340,8,4000,128.0,16.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,143.88
+Google,Pixel 3a XL,3700,6.0,Yes,1080,2160,8,4000,64.0,12.2,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,419.99
+Samsung,Galaxy A70,4500,6.7,Yes,1080,2400,8,6000,128.0,32.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,267.59
+Black Shark,2,4000,6.39,Yes,1080,2340,8,6000,128.0,48.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+OnePlus,7,3700,6.41,Yes,1080,2340,8,6000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+LG,G8s ThinQ,3550,6.2,Yes,1080,2248,8,6000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,479.88
+Vivo,V15 Pro,3700,6.39,Yes,1080,2340,8,6000,128.0,48.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,215.68
+Xiaomi,Redmi Note 7,4000,6.3,Yes,1080,2340,8,3000,32.0,12.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,116.39
+Xiaomi,Redmi 7,4000,6.26,Yes,720,1520,8,2000,16.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,87.98
+Samsung,Galaxy M20,5000,6.3,Yes,1080,2340,8,3000,32.0,13.0,8.0,Android,No,Yes,Yes,2,Yes,Yes,119.99
+Samsung,Galaxy M30,5000,6.4,Yes,1080,2340,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,113.99
+Honor,View 20,4000,6.4,Yes,1080,2310,8,6000,128.0,48.0,25.0,Android,Yes,Yes,Yes,1,No,No,301.44
+Asus,ZenFone Max Pro M2,5000,6.26,Yes,1080,2280,8,3000,32.0,12.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.99
+Google,Pixel 3a,3000,5.6,Yes,1080,2220,8,4000,64.0,12.2,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,371.99
+Realme,U1,3500,6.3,Yes,1080,2340,8,3000,32.0,13.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Honor,10 Lite,3400,6.21,Yes,1080,2340,8,3000,32.0,13.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Nokia,8.1,3500,6.18,Yes,1080,2244,8,4000,64.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,216.00
+Samsung,Galaxy A9 (2018),3800,6.3,Yes,1080,2220,8,6000,128.0,24.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,264.00
+Oppo,K1,3600,6.41,Yes,1080,2340,8,4000,64.0,16.0,25.0,Android,Yes,Yes,Yes,1,No,No,119.88
+Nokia,7.1,3060,5.84,Yes,1080,2280,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,No,No,142.80
+Realme,2 Pro,3500,6.3,Yes,1080,2340,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,141.24
+Vivo,V9 Pro,3260,6.3,Yes,1080,2280,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,197.88
+Samsung,Galaxy A7 (2018),3300,6.0,Yes,1080,2220,8,4000,64.0,24.0,24.0,Android,Yes,Yes,Yes,2,No,Yes,197.88
+Xiaomi,Redmi Note 6 Pro,4000,6.26,Yes,1080,2280,8,4000,64.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,114.96
+Vivo,V11 Pro,3400,6.41,Yes,1080,2340,8,6000,64.0,12.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.88
+Oppo,R17 Pro,3700,6.4,Yes,1080,2340,8,8000,128.0,12.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,255.59
+Nokia,5.1 Plus,3060,5.86,Yes,720,1520,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Honor,8X,3750,6.5,Yes,1080,2340,8,4000,64.0,20.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Poco,F1,4000,6.18,Yes,1080,2246,8,6000,64.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.88
+Nokia,6.1 Plus,3060,5.8,Yes,1080,2280,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Vivo,Nex,4000,6.59,Yes,1080,2316,8,8000,128.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+Oppo,Find X,3730,6.42,Yes,1080,2340,8,8000,256.0,16.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,709.08
+Honor,Play,3750,6.3,Yes,1080,2340,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,216.13
+Realme,1,3410,6.0,Yes,1080,2160,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,123.59
+Xiaomi,Mi A2,3000,5.99,Yes,1080,2160,8,4000,64.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Honor,10,3400,5.84,Yes,1080,2280,8,6000,128.0,16.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,203.88
+Oppo,F7,3400,6.23,Yes,1080,2280,8,4000,64.0,16.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,227.88
+Vivo,X21,3200,6.28,Yes,1080,2280,8,6000,64.0,12.0,12.0,Android,Yes,Yes,Yes,2,Yes,Yes,219.48
+Nokia,8 Sirocco,3260,5.5,Yes,1440,2560,8,6000,128.0,12.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,167.99
+Infinix,Hot S3,4000,5.65,Yes,720,1440,8,3000,32.0,13.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Nokia,6.1,3000,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,106.19
+Honor,View 10,3750,5.99,Yes,1080,2160,8,6000,128.0,16.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,190.79
+Infinix,Zero 5 Pro,4350,5.98,Yes,1080,1920,8,6000,128.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,190.80
+Oppo,F5,3200,6.0,Yes,1080,2160,8,4000,32.0,16.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,125.99
+OnePlus,5T,3300,6.01,Yes,1080,2160,8,6000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,341.99
+Honor,9i,3340,5.9,Yes,1080,2160,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Xiaomi,Mi MIX 2,3400,5.99,Yes,1080,2160,8,6000,64.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+Lenovo,K8 Plus,4000,5.2,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.88
+Xiaomi,Mi A1,3080,5.5,Yes,1080,1920,8,4000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Sony,Xperia XZ1,2700,5.2,Yes,1080,1920,8,4000,32.0,19.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,419.88
+LG,V30+,3300,6.0,Yes,1440,2880,8,4000,128.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,335.99
+Lenovo,K8 Note,4000,5.5,Yes,1080,1920,10,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,87.59
+Motorola,Moto G5S,3000,5.2,Yes,1080,1920,8,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Google,Pixel 2 XL,3520,6.0,Yes,1440,2880,8,4000,64.0,12.2,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,155.93
+Google,Pixel 2,2700,5.0,Yes,1080,1920,8,4000,64.0,12.2,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,119.93
+Motorola,Moto X4,3000,5.2,Yes,1080,1920,8,3000,32.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,150.00
+Motorola,Moto G5S Plus,3000,5.5,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,102.00
+Xiaomi,Redmi 5,3300,5.7,Yes,720,1440,8,2000,16.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+Xiaomi,Redmi Note 5,4000,5.99,Yes,1080,2160,8,3000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,104.39
+Jio,Phone,2000,2.4,No,240,320,2,512,4.0,2.0,0.3,Cyanogen,Yes,Yes,Yes,1,No,Yes,14.99
+Samsung,Galaxy On Max,3300,5.7,Yes,1080,1920,8,4000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,118.68
+Motorola,Moto Z2 Play,3000,5.5,Yes,1080,1920,8,4000,64.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,125.99
+Yu,reka Black,3000,5.0,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.88
+Xiaomi,Mi Max 2,5300,6.44,Yes,1080,1920,8,4000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Coolpad,Cool Play 6,4060,5.5,Yes,1080,1920,8,6000,64.0,13.0,8.0,Android,Yes,Yes,No,2,No,Yes,107.99
+OnePlus,5,3300,5.5,Yes,1080,1920,8,6000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,209.99
+Asus,ZenFone Zoom S,5000,5.5,Yes,1080,1920,8,4000,64.0,12.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,323.99
+Honor,8 Pro,4000,5.7,Yes,1440,2560,8,6000,128.0,12.0,8.0,Android,Yes,Yes,Yes,2,No,Yes,211.03
+Micromax,Dual 5,3200,5.5,Yes,1080,1920,8,4000,128.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.99
+Oppo,F3 Plus,4000,6.0,Yes,1080,1920,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.88
+Sony,Xperia XZ Premium,3230,5.5,Yes,2160,3840,8,4000,64.0,19.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,402.00
+Motorola,Moto G5 Plus,3000,5.2,Yes,1080,1920,8,3000,16.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,130.80
+Asus,ZenFone 3S Max,5000,5.2,Yes,720,1280,8,3000,32.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,179.99
+Samsung,Galaxy C7 Pro,3300,5.7,Yes,1080,1920,1,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,203.99
+HTC,U Play,2500,5.2,Yes,1080,1920,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,186.00
+HTC,U Ultra,3000,5.7,Yes,1440,2560,4,4000,64.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,655.98
+Asus,ZenFone AR,3300,5.7,Yes,1440,2560,4,8000,128.0,23.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,599.99
+Xiaomi,Redmi 4A,3120,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Xiaomi,Redmi 4,4100,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Nubia,Z11 mini S,3000,5.2,Yes,1080,1920,8,4000,64.0,23.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,203.99
+Lenovo,Z2 Plus,3500,5.0,Yes,1080,1920,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,137.99
+LG,V20,3200,5.7,Yes,1440,2560,4,4000,64.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,323.99
+Lenovo,K6 Power,4000,5.0,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,102.00
+Sony,Xperia XZ,2900,5.2,Yes,1080,1920,4,3000,64.0,23.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.99
+Samsung,Galaxy J7 Prime,3300,5.5,Yes,1080,1920,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.94
+Motorola,Moto Z Play,3510,5.5,Yes,1080,1920,8,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Xiaomi,Redmi Note 4,4100,5.5,Yes,1080,1920,8,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.88
+Xiaomi,Redmi 3S Prime,4100,5.0,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,96.00
+Motorola,Moto Z,2600,5.5,Yes,1440,2560,4,4000,64.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.99
+Asus,ZenFone 3 (ZE552KL),3000,5.5,Yes,1080,1920,8,4000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.99
+Smartron,t.phone,3000,5.5,Yes,1080,1920,8,4000,32.0,13.0,4.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.88
+Motorola,Moto G4 Plus,3000,5.5,Yes,1080,1920,8,2000,16.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Coolpad,Max,2800,5.5,Yes,1080,1920,8,4000,64.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.99
+Xiaomi,Mi Max,4850,6.44,Yes,1080,1920,6,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.88
+Lenovo,Zuk Z1,4100,5.5,Yes,1080,1920,4,3000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+LeEco,Le 2,3000,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+LeEco,Le Max 2,3100,5.7,Yes,1440,2560,4,4000,32.0,21.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,93.48
+Huawei,P9,3000,5.2,Yes,1080,1920,8,3000,32.0,12.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,479.99
+Apple,iPhone SE,1624,4.0,Yes,640,1136,1,2000,16.0,12.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,203.99
+LG,G5,2800,5.3,Yes,1440,2560,4,4000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Oppo,F1,2500,5.0,Yes,720,1280,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Samsung,Galaxy A5 (2016),2900,5.2,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.88
+Xiaomi,Redmi Note 3,4050,5.5,Yes,1080,1920,6,2000,16.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,82.79
+HTC,One A9,2150,5.0,Yes,1080,1920,8,3000,32.0,13.0,4.0,Android,Yes,Yes,Yes,1,Yes,Yes,361.79
+BlackBerry,Priv,3410,5.4,Yes,1440,2560,6,3000,32.0,18.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,239.99
+LG,Google Nexus 5X,2700,5.2,Yes,1080,1920,6,2000,16.0,12.3,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,311.88
+Apple,iPhone 6s,1715,4.7,Yes,750,1334,2,2000,16.0,12.0,5.0,iOS,Yes,Yes,Yes,1,Yes,Yes,275.99
+Lenovo,Vibe P1,4900,5.5,Yes,1080,1920,8,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.99
+Lenovo,Vibe S1,2420,5.0,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+Samsung,Galaxy S6 Edge+,3000,5.7,Yes,1440,2560,8,4000,32.0,16.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,215.99
+Samsung,Galaxy Note 5,3000,5.7,Yes,1440,2560,8,4000,32.0,16.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,179.99
+Motorola,Moto X Play,3630,5.5,Yes,1080,1920,8,2000,16.0,21.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.88
+Motorola,Moto G (Gen 3),2470,5.0,Yes,720,1280,4,1000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Honor,7,3100,5.2,Yes,1080,1920,8,3000,16.0,20.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,191.99
+Asus,ZenFone Selfie,3000,5.5,Yes,1080,1920,8,2000,16.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.99
+LG,G4,3000,5.5,Yes,1440,2560,6,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,159.59
+Xiaomi,Mi 4i,3120,5.0,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+Lenovo,K3 Note,2900,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Motorola,Moto Turbo,3900,5.2,Yes,1440,2560,4,3000,64.0,21.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,383.99
+Gionee,Elife S7,2700,5.2,Yes,1080,1920,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.99
+Lenovo,Vibe Shot,2900,5.0,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,117.59
+Samsung,Galaxy S6 Edge,2600,5.1,Yes,1440,2560,8,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,311.99
+Honor,6 Plus,3600,5.5,Yes,1080,1920,8,3000,32.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,317.99
+HTC,Desire 820s,2600,5.5,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,306.00
+HTC,One (M8 Eye),2600,5.0,Yes,1080,1920,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,342.00
+Motorola,Google Nexus 6,3220,5.96,Yes,1440,2560,4,3000,32.0,13.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,161.88
+HTC,Desire Eye,2400,5.2,Yes,1080,1920,4,2000,16.0,13.0,13.0,Android,Yes,Yes,Yes,1,Yes,Yes,131.88
+BlackBerry,Passport,3450,4.5,Yes,1440,1440,4,3000,32.0,13.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,Yes,191.99
+Apple,iPhone 6 Plus,2915,5.5,Yes,1080,1920,1,1000,16.0,8.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,287.99
+Apple,iPhone 6,1810,4.7,Yes,750,1334,2,1000,16.0,8.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,191.99
+Motorola,Moto X (Gen 2),2300,5.2,Yes,1080,1920,4,2000,16.0,13.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,287.99
+Motorola,Moto G (Gen 2),2070,5.0,Yes,720,1280,4,1000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,162.00
+Sony,Xperia Z3 Compact,2600,4.6,Yes,720,1280,4,2000,16.0,20.7,2.2,Android,Yes,Yes,Yes,1,Yes,Yes,467.88
+Samsung,Galaxy Note 4,3220,5.7,Yes,1440,2560,4,3000,32.0,16.0,3.7,Android,Yes,Yes,Yes,1,Yes,Yes,334.80
+Samsung,Galaxy Note Edge,3000,5.6,Yes,1600,2560,4,3000,32.0,16.0,3.7,Android,Yes,Yes,Yes,1,Yes,Yes,359.40
+Xiaomi,Mi 4,3080,5.0,Yes,1080,1920,4,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,No,95.84
+Lenovo,Vibe Z2 Pro,4000,6.0,Yes,1440,2560,4,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+OnePlus,One,3100,5.5,Yes,1080,1920,4,3000,16.0,13.0,5.0,Cyanogen,Yes,Yes,Yes,1,Yes,Yes,263.99
+Samsung,Galaxy S5,2800,5.1,Yes,1080,1920,8,2000,16.0,16.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,407.99
+Sony,Xperia Z2,3200,5.2,Yes,1080,1920,4,3000,16.0,20.7,2.2,Android,Yes,Yes,Yes,1,Yes,Yes,431.88
+Sony,Xperia Z1 Compact,2300,4.3,Yes,720,1280,4,2000,16.0,20.7,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,143.99
+Gionee,Elife E7,2500,5.5,Yes,1080,1920,4,2000,16.0,16.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,44.39
+Samsung,Galaxy Grand 2,2600,5.2,Yes,720,1280,4,1000,8.0,8.0,1.9,Android,Yes,Yes,Yes,2,Yes,Yes,191.99
+Motorola,Moto G,2070,4.5,Yes,720,1280,4,1000,8.0,5.0,1.3,Android,Yes,Yes,Yes,2,Yes,No,119.99
+LG,Google Nexus 5,2300,4.95,Yes,1080,1920,4,2000,16.0,8.0,1.3,Android,Yes,Yes,Yes,1,Yes,Yes,144.00
+Nokia,Lumia 1520,3400,6.0,Yes,1080,1920,4,2000,32.0,20.0,1.2,Windows,Yes,Yes,Yes,1,Yes,Yes,419.88
+Apple,iPhone 5c,1507,4.0,Yes,640,1136,2,1000,8.0,8.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,101.99
+Xiaomi,Mi 3,3050,5.0,Yes,1080,1920,4,2000,16.0,13.0,2.0,Android,Yes,Yes,Yes,1,Yes,No,167.99
+Samsung,Galaxy Note 3,3200,5.7,Yes,1080,1920,8,3000,32.0,13.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,607.80
+Sony,Xperia Z1,3000,5.0,Yes,1080,1920,1,2000,16.0,20.7,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,680.39
+LG,G2,3000,5.2,Yes,1080,1920,4,2000,16.0,13.0,2.1,Android,Yes,Yes,Yes,1,Yes,Yes,269.99
+Motorola,Moto X,2200,4.7,Yes,720,1280,2,2000,16.0,10.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,180.00
+Sony,Xperia Z,2330,5.0,Yes,1080,1920,4,2000,16.0,13.1,2.2,Android,Yes,Yes,Yes,1,Yes,Yes,389.88
+Samsung,Galaxy S III,2100,4.8,Yes,720,1280,4,1000,16.0,8.0,1.9,Android,Yes,Yes,Yes,1,Yes,Yes,71.99
+Samsung,Galaxy S4,2600,5.0,Yes,1080,1920,8,2000,16.0,13.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,694.98
+Nokia,Lumia 920,2000,4.5,Yes,768,1280,2,1000,32.0,8.7,1.3,Windows,Yes,Yes,Yes,1,Yes,No,107.99
+Oppo,F15,4000,6.4,Yes,1080,2400,8,8000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,224.28
+Vivo,S1 Pro,4500,6.38,Yes,1080,2340,8,8000,128.0,48.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,223.19
+Motorola,Moto G8 Plus,4000,6.3,Yes,1080,2280,8,4000,64.0,48.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+Motorola,One Macro,4000,6.2,Yes,720,1520,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Vivo,U10,5000,6.35,Yes,720,1544,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Xiaomi,Redmi 8A,5000,6.22,Yes,720,1520,8,2000,32.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+Oppo,A9 2020,5000,6.5,Yes,720,1600,8,4000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,176.76
+Samsung,Galaxy M10s,4000,6.4,Yes,720,1520,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.99
+Infinix,Hot 8,5000,6.52,Yes,720,1600,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,No,96.00
+Xiaomi,Redmi Note 8,4000,6.3,Yes,1080,2280,8,3000,32.0,48.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,110.34
+Xiaomi,Redmi 8,5000,6.22,Yes,720,1520,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Realme,3i,4230,6.2,Yes,720,1520,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Infinix,Hot 7,4000,6.19,Yes,720,1500,8,4000,64.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.88
+Honor,9X,4000,6.59,Yes,1080,2340,8,4000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.99
+Motorola,One Action,3500,6.3,Yes,1080,2520,8,4000,128.0,12.0,12.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+LG,W30,4000,6.26,Yes,720,1520,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.99
+Infinix,Hot 7 Pro,4000,6.19,Yes,720,1500,8,6000,64.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Xiaomi,Redmi 7A,4000,5.45,Yes,720,1440,8,2000,16.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.99
+Infinix,S4,4000,6.21,Yes,720,1520,8,3000,32.0,13.0,32.0,Android,Yes,Yes,Yes,2,No,No,95.99
+Vivo,Y17,5000,6.35,Yes,720,1544,8,4000,128.0,13.0,20.0,Android,Yes,Yes,Yes,2,No,No,137.88
+Infinix,Smart 3 Plus,3500,6.21,Yes,720,1520,4,2000,32.0,13.0,8.0,Android,Yes,Yes,No,2,No,No,83.99
+Oppo,A1k,4000,6.1,Yes,720,1560,8,2000,32.0,8.0,5.0,Android,Yes,Yes,No,2,No,No,80.04
+Oppo,A5s,4230,6.2,Yes,1520,720,8,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.22
+Xiaomi,Redmi Y3,4000,6.26,Yes,720,1520,8,3000,32.0,12.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Realme,C2,4000,6.1,Yes,720,1560,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Honor,20i,3400,6.21,Yes,1080,2340,8,4000,128.0,24.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Vivo,S1,4500,6.38,Yes,1080,2340,8,4000,128.0,16.0,32.0,Android,Yes,Yes,Yes,2,No,No,179.75
+Realme,3,4230,6.2,Yes,720,1520,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.88
+Vivo,V15,4000,6.53,Yes,1080,2340,8,6000,64.0,12.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.88
+Xiaomi,Redmi Go,3000,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Meizu,M16th,3010,6.0,Yes,1080,2160,8,8000,128.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.88
+Asus,ZenFone Max M2,4000,6.26,Yes,720,1520,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Infinix,Note 5 Stylus,4000,5.93,Yes,1080,2160,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,1,No,No,191.99
+Infinix,Hot S3X,4000,6.2,Yes,720,1500,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Asus,ZenFone Lite L1 (ZA551KL),3000,5.45,Yes,720,1440,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Asus,ZenFone Max M1 (ZB556KL),4000,5.45,Yes,720,1440,8,3000,32.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,71.99
+Lenovo,K9,3000,5.7,Yes,720,1440,8,3000,32.0,13.0,13.0,Android,Yes,Yes,No,1,No,No,70.79
+Nokia,3.1 Plus,3500,6.0,Yes,720,1440,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,82.20
+Honor,8C,4000,6.26,Yes,720,1520,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Panasonic,Eluga X1 Pro,3000,6.18,Yes,1080,2246,8,6000,128.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.99
+Realme,C1,4230,6.2,Yes,720,1520,8,2000,16.0,13.0,5.0,Android,Yes,Yes,No,1,No,No,95.88
+BlackBerry,KEY2 LE,3000,4.5,Yes,1080,1620,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,275.88
+Realme,2,4230,6.2,Yes,720,1520,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,106.68
+Infinix,Note 5,4500,5.99,Yes,1080,2160,8,3000,32.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,70.20
+Oppo,F9 Pro,3500,6.3,Yes,1080,2340,8,6000,64.0,16.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,215.88
+Oppo,F9,3500,6.3,Yes,1080,2340,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.93
+Honor,9N,3000,5.84,Yes,1080,2280,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Huawei,Nova 3i,3340,6.3,Yes,1080,2340,8,4000,128.0,16.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,263.99
+Huawei,Nova 3,3750,6.3,Yes,1080,2340,8,6000,128.0,16.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.99
+Xiaomi,Redmi 6 Pro,4000,5.84,Yes,1080,2280,8,3000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,99.48
+Xiaomi,Redmi 6A,3000,5.45,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,68.39
+Xiaomi,Redmi Y2,3080,5.99,Yes,720,1440,8,3000,32.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Tecno,Camon iClick,3750,6.0,Yes,720,1440,8,4000,64.0,16.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.04
+Xiaomi,Redmi 6,3000,5.45,Yes,720,1440,8,3000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,86.16
+Samsung,Galaxy J8,3500,6.0,Yes,720,1440,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,185.99
+Samsung,Galaxy J6,3000,5.6,Yes,720,1480,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,113.88
+Samsung,Galaxy A6+,3500,6.0,Yes,1080,2220,8,4000,64.0,16.0,24.0,Android,Yes,Yes,Yes,1,No,No,191.99
+Motorola,Moto E5 Plus,5000,6.0,Yes,720,1440,8,3000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,112.79
+Nubia,Red Magic,3800,6.0,Yes,1080,2160,8,8000,128.0,24.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,298.32
+InFocus,Vision 3 Pro,4000,5.7,Yes,720,1440,8,4000,64.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.88
+Itel,S42,3000,5.65,Yes,720,1440,4,3000,16.0,13.0,13.0,Android,Yes,Yes,No,2,Yes,Yes,101.76
+Huawei,P20 Lite,3000,5.84,Yes,1080,2280,8,4000,64.0,16.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,153.60
+Vivo,V9,3260,6.3,Yes,1080,2280,8,4000,64.0,16.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,164.88
+Motorola,Moto G6 Play,4000,5.7,Yes,720,1440,8,3000,32.0,13.0,8.0,Android,Yes,Yes,No,2,No,Yes,96.59
+Honor,7C,3000,5.99,Yes,720,1440,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,93.59
+Motorola,Moto G6,3000,5.7,Yes,1080,2160,8,3000,32.0,12.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,125.99
+Smartron,t.phone P,5000,5.2,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,126.00
+Oppo,A83,3180,5.7,Yes,720,1440,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,81.59
+Honor,9 Lite,3000,5.65,Yes,1080,2160,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.15
+10.or,D,3500,5.2,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+InFocus,Vision 3,4000,5.7,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,82.20
+Samsung,Galaxy A8+ (2018),3500,6.0,Yes,1080,2220,8,6000,64.0,16.0,16.0,Android,Yes,Yes,Yes,1,No,No,202.80
+Gionee,S11 Lite,3030,5.7,Yes,720,1440,8,4000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,75.83
+Vivo,V7,3000,5.7,Yes,720,1440,8,4000,32.0,16.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.88
+Xiaomi,Redmi Y1,3080,5.5,Yes,720,1280,8,2000,16.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.88
+Xiaomi,Redmi 5A,3000,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,86.39
+Honor,7X,3340,5.93,Yes,1080,2160,8,4000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,152.66
+Honor,Holly 4,3020,5.0,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.99
+Gionee,M7 Power,5000,6.0,Yes,720,1440,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,106.68
+Vivo,V7+,3225,5.99,Yes,720,1440,8,4000,64.0,16.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+Asus,ZenFone 4 Selfie Pro,3000,5.5,Yes,1080,1920,8,4000,64.0,16.0,12.0,Android,Yes,Yes,Yes,2,Yes,Yes,311.99
+LG,Q6,3000,5.5,Yes,1080,2160,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.38
+Oppo,F3,3200,5.5,Yes,1080,1920,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.88
+Smartron,srt.phone,3000,5.5,Yes,1080,1920,8,4000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Vivo,V5s,3000,5.5,Yes,720,1280,8,4000,64.0,13.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.88
+Micromax,Evok Power,4000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,2,No,Yes,65.99
+Lava,Z25,3020,5.5,Yes,720,1280,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,144.00
+Nubia,M2,3630,5.5,Yes,1080,1920,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.88
+Cat,S60,3800,4.7,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,479.99
+Coolpad,Note 5 Lite,2500,5.0,Yes,720,1280,4,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,51.48
+Gionee,A1,4010,5.5,Yes,1080,1920,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Sony,Xperia XA1 Ultra,2700,6.0,Yes,1080,1920,8,4000,64.0,23.0,16.0,Android,Yes,Yes,Yes,2,No,Yes,71.93
+Sony,Xperia XZs,2900,5.2,Yes,1080,1920,4,4000,32.0,19.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,359.88
+Gionee,A1 Plus,4550,6.0,Yes,1080,1920,8,4000,64.0,13.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,11.93
+Motorola,Moto G5,2800,5.0,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.40
+Honor,8 Lite,3000,5.2,Yes,1080,1920,8,4000,64.0,12.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,179.20
+Vivo,V5 Plus,3055,5.5,Yes,1080,1920,8,4000,64.0,16.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,150.00
+Nokia,6,3000,5.5,Yes,1080,1920,8,2000,16.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,87.00
+Samsung,Galaxy A7 (2017),3600,5.7,Yes,1080,1920,8,3000,32.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,310.80
+Samsung,Galaxy A5 (2017),3000,5.2,Yes,1080,1920,8,3000,32.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,227.99
+Coolpad,Note 3S,2500,5.5,Yes,720,1080,8,3000,32.0,13.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,107.88
+Oppo,A57,2900,5.2,Yes,720,1280,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,144.00
+Vivo,V5,3000,5.5,Yes,720,1280,8,4000,32.0,13.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,198.49
+Asus,ZenFone 3 Max (ZC553KL),4100,5.5,Yes,1080,1920,8,2000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,103.19
+Lyf,F1,3200,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+InFocus,Epic 1,3000,5.5,Yes,1080,1920,10,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Honor,6X,3340,5.5,Yes,1080,1920,8,3000,32.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.99
+Intex,Aqua S7,3200,5.0,Yes,720,1280,1,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.99
+Lenovo,P2,5100,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,203.99
+Lenovo,K6 Note,4000,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,106.68
+Gionee,S6s,3150,5.5,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,144.00
+Coolpad,Cool 1 Dual,4000,5.5,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,151.67
+Oppo,F1s,3075,5.5,Yes,720,1280,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.88
+BlackBerry,DTEK50,2610,5.2,Yes,1080,1920,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,143.99
+Asus,ZenFone 3 Laser,3000,5.5,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.99
+Lenovo,Phab 2 Plus,4050,6.4,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,119.99
+Yu,nicorn,4000,5.5,Yes,1080,1920,8,4000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Coolpad,Note 3 Plus,3000,5.5,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,74.99
+LeEco,Le 1s Eco,3000,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.88
+Vivo,V3Max,3000,5.5,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,215.75
+Oppo,F1 Plus,2850,5.5,Yes,1080,1920,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,215.88
+InFocus,Bingo 50,2500,5.0,Yes,720,1280,4,3000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.88
+Lenovo,Vibe K5,2750,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Lenovo,Vibe K5 Plus,2750,5.0,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Xolo,Era 4K,4000,5.0,Yes,720,1280,4,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+LG,X screen,2300,4.93,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,95.88
+Coolpad,Note 3 Lite,2500,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Lenovo,Vibe K4 Note,3300,5.5,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Gionee,Marathon M5 Plus,5020,6.0,Yes,1080,1920,8,3000,64.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,286.80
+Intex,Aqua GenX,2850,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,115.56
+Yu,topia,3000,5.2,Yes,1440,2560,8,4000,32.0,21.0,8.0,Cyanogen,Yes,Yes,Yes,2,Yes,Yes,359.99
+InFocus,M680,2600,5.5,Yes,1080,1920,8,2000,16.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.88
+Gionee,Marathon M5 Lite,4000,5.0,Yes,720,1280,4,3000,32.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Gionee,S6,3150,5.5,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.98
+Motorola,Moto G Turbo Edition,2470,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,203.99
+Micromax,Canvas 5,2900,5.2,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,81.60
+Honor,5X,3000,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,88.80
+Coolpad,Note 3,3000,5.5,Yes,720,1280,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,113.99
+HTC,One E9s Dual SIM,2600,5.5,Yes,720,1280,8,2000,16.0,13.0,4.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Yu,nique,2000,4.7,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,56.34
+Sony,Xperia Z5 Dual,2900,5.2,Yes,1080,1920,8,3000,32.0,23.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,551.99
+Acer,Liquid Z630s,4000,5.5,Yes,720,1280,8,3000,32.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,86.28
+Xiaomi,Redmi 2 Prime,2200,4.7,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Asus,ZenFone Max,5000,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Asus,ZenFone 2 Deluxe,3000,5.5,Yes,1080,1920,4,4000,64.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,203.99
+Gionee,Marathon M4,5000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,52.80
+Asus,ZenFone 2 Laser (ZE550KL),3000,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+Motorola,Moto X Style,3000,5.7,Yes,1440,2560,6,3000,16.0,21.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,251.99
+InFocus,M812,2900,5.5,Yes,1080,1920,4,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,94.99
+Xolo,Black,3200,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.23
+Phicomm,Passion 660,2300,5.0,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,38.86
+Coolpad,Dazen X7,2700,5.2,Yes,1080,1920,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Yu,phoria,2230,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Cyanogen,Yes,Yes,Yes,2,Yes,Yes,107.99
+Honor,4C,2550,5.0,Yes,720,1280,8,2000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,107.99
+Lenovo,A6000 Plus,2300,5.0,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,76.79
+Lenovo,A7000,2900,5.5,Yes,720,1280,8,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,79.99
+Motorola,Moto E (Gen 2),2390,4.5,Yes,540,960,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,1,Yes,No,59.99
+HTC,Desire 526G+ Dual SIM,2000,4.7,Yes,540,960,8,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,108.00
+Lenovo,A6000,2300,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,60.00
+Asus,ZenFone Zoom,3000,5.5,Yes,1080,1920,4,4000,64.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,191.99
+Xiaomi,Redmi 2,2200,4.7,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,64.79
+Lava,Iris Fuel 60,4000,5.0,Yes,720,1280,4,1000,8.0,10.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,51.59
+Vivo,Y15,1900,4.5,Yes,480,854,4,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,78.47
+Micromax,Canvas Selfie,2300,4.7,Yes,720,1280,8,2000,16.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,No,166.74
+Honor,4X,3000,5.5,Yes,720,1280,4,2000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Xolo,Q2100,2800,5.5,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,83.98
+Micromax,Canvas 4 Plus,2000,5.0,Yes,720,1280,8,1000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,65.88
+Micromax,Canvas A1,1700,4.5,Yes,480,854,4,1000,4.0,5.0,2.4,Android,Yes,Yes,Yes,2,Yes,No,57.54
+Karbonn,Sparkle V,1700,4.5,No,480,854,4,1000,4.0,5.0,2.4,Android,Yes,Yes,Yes,2,Yes,No,34.79
+Spice,Dream Uno,1700,4.5,No,480,854,4,1000,4.0,5.0,2.4,Android,Yes,Yes,Yes,2,Yes,No,89.88
+Micromax,Canvas Nitro,2500,5.0,Yes,720,1280,8,2000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,59.99
+Nokia,Lumia 830,2200,5.0,Yes,720,1280,4,1000,16.0,10.0,0.9,Windows,Yes,Yes,Yes,1,Yes,Yes,239.99
+HTC,Desire 820,2600,5.5,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,311.99
+Samsung,Galaxy Alpha,1860,4.7,Yes,720,1280,8,2000,32.0,12.0,2.1,Android,Yes,Yes,Yes,1,Yes,Yes,119.99
+Xolo,8X-1000,1920,5.0,Yes,720,1280,8,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,65.99
+Spice,Stellar 520,2000,5.0,Yes,720,1280,4,1000,4.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,59.99
+Xiaomi,Redmi 1S,2000,4.7,Yes,720,1280,4,1000,8.0,8.0,1.6,Android,Yes,Yes,Yes,2,Yes,No,71.99
+Honor,6,3000,5.0,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,179.99
+Oppo,N1 Mini,2140,5.0,Yes,720,1280,4,2000,16.0,13.0,0.0,Android,Yes,Yes,Yes,1,Yes,Yes,119.88
+Xolo,Q1200,2000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,1,Yes,No,164.00
+Panasonic,P81,2500,5.5,Yes,720,1280,8,1000,8.0,13.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,142.80
+Motorola,Moto E,1980,4.3,Yes,540,960,2,1000,4.0,5.0,0.0,Android,Yes,Yes,Yes,2,Yes,No,59.99
+Oppo,R1,2410,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,140.82
+Xolo,Q1010i,2250,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,163.27
+Micromax,Canvas Knight,2350,5.0,Yes,1080,1920,8,2000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,No,71.99
+HTC,Desire 816,2600,5.5,Yes,720,1280,4,1000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,328.68
+Nokia,X Dual SIM,1500,4.0,Yes,480,800,2,512,4.0,3.0,0.0,Cyanogen,Yes,Yes,Yes,2,Yes,No,95.99
+Lenovo,S660,3000,4.7,Yes,540,960,4,1000,8.0,8.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,80.40
+Gionee,Elife S5.5,2300,5.0,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,No,131.99
+LG,G Pro 2,3200,5.9,Yes,1080,1920,4,3000,16.0,13.0,2.1,Android,Yes,Yes,Yes,1,Yes,Yes,504.25
+Xolo,Q1100,2000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,164.12
+Samsung,Galaxy Note 3 Neo,3100,5.5,Yes,720,1280,6,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,135.00
+Asus,ZenFone 6,3300,6.0,Yes,720,1280,2,2000,16.0,13.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,106.69
+Nokia,Asha 502,1010,3.0,Yes,240,320,1,64,0.064,5.0,0.0,Cyanogen,Yes,Yes,No,2,No,No,41.99
+Nokia,Lumia 1020,2000,4.5,Yes,768,1280,2,2000,32.0,41.0,1.2,Windows,Yes,Yes,Yes,1,Yes,Yes,131.88
+Spice,Pinnacle FHD,2100,5.0,Yes,1080,1920,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,71.99
+Gionee,Elife E6,2000,5.0,Yes,1080,1920,4,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,No,257.40
+Micromax,Canvas 4,2000,5.0,Yes,720,1280,4,1000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,62.39
+Lava,Iris 504q,2000,5.0,Yes,720,1280,4,1000,4.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,113.99
+BlackBerry,Q5,2180,3.1,Yes,720,720,2,2000,8.0,5.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,Yes,129.60
+BlackBerry,Q10,2100,3.1,Yes,720,720,1,2000,16.0,8.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,Yes,118.79
+Lenovo,P780,4000,5.0,Yes,720,1280,4,1000,4.0,8.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,184.92
+Sony,Xperia U,1320,3.5,Yes,480,854,2,512,8.0,5.0,0.3,Android,Yes,Yes,Yes,1,Yes,No,59.88
+Sony,Xperia SP,2370,4.6,Yes,720,1280,2,1000,8.0,8.0,0.3,Android,Yes,Yes,Yes,1,Yes,Yes,257.88
+Samsung,Galaxy Y Pro Duos,1350,2.6,Yes,240,320,1,384,0.16,3.2,0.3,Android,Yes,Yes,Yes,2,Yes,No,66.66
+Samsung,Galaxy Mega 5.8,2600,5.8,Yes,540,960,2,1000,8.0,8.0,1.9,Android,Yes,Yes,Yes,2,Yes,No,83.99
+Nokia,Lumia 620,1300,3.8,Yes,480,800,2,512,8.0,5.0,0.3,Windows,Yes,Yes,Yes,1,Yes,No,59.99
+Nokia,Lumia 820,1650,4.3,Yes,480,800,2,1000,8.0,8.0,0.3,Windows,Yes,Yes,Yes,1,Yes,No,235.92
+LG,Optimus G,2100,4.7,Yes,768,1280,4,2000,32.0,13.0,1.3,Android,Yes,Yes,Yes,1,Yes,No,119.99
+HTC,One S,1650,4.3,Yes,540,960,2,1000,16.0,8.0,0.3,Android,Yes,Yes,Yes,1,Yes,No,206.06
+BlackBerry,Z10,1800,4.2,Yes,768,1280,2,2000,16.0,8.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,Yes,66.00
+Infinix,S5 Lite,4000,6.5,Yes,720,1600,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Infinix,S5,4000,6.6,Yes,720,1600,8,4000,64.0,16.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Motorola,Moto E6s,3000,6.1,Yes,720,1560,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Tecno,Camon i4,3500,6.2,Yes,720,1520,4,2000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.20
+Nokia,4.2,3000,5.71,Yes,720,1520,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,95.99
+Nokia,3.2,4000,6.26,Yes,720,1520,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,No,No,80.28
+Samsung,Galaxy M10,3400,6.22,Yes,720,1520,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Micromax,Infinity N12,4000,6.19,Yes,720,1500,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,75.59
+Coolpad,Note 8,4000,5.99,Yes,1080,2160,8,4000,64.0,16.0,8.0,Android,Yes,Yes,No,1,No,No,89.20
+Samsung,Galaxy J6+,3300,6.0,Yes,720,1480,4,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,143.99
+Samsung,Galaxy J4+,3300,6.0,Yes,720,1480,4,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,1,No,No,113.99
+Samsung,Galaxy J2 Core,2600,5.0,Yes,540,960,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,74.28
+10.or,D2,3200,5.45,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Coolpad,Mega 5A,2500,5.47,Yes,720,1440,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,1,No,No,46.80
+Infinix,Smart 2,3050,5.45,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Infinix,Hot 6 Pro,4000,5.99,Yes,720,1440,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+iVoomi,i2 Lite,4000,5.45,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Honor,7S,3020,5.45,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,No,No,71.99
+Coolpad,Note 6,4070,5.5,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Panasonic,Eluga Ray 550,3250,5.7,Yes,720,1440,4,3000,16.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,68.51
+Nokia,1,2150,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,56.06
+Tecno,Camon i,3050,5.65,Yes,720,1440,4,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.16
+iVoomi,i1,3000,5.45,Yes,640,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,50.88
+Samsung,Galaxy On7 Prime,3300,5.5,Yes,1080,1920,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+Intex,Aqua Lions X1+,2800,5.2,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,50.39
+Kult,Gladiator,4000,5.5,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,82.79
+InFocus,Turbo 5 Plus,4850,5.5,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,64.20
+Nuu Mobile,M3,3200,5.5,Yes,720,1280,4,3000,32.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,50.75
+Micromax,Canvas Infinity,2900,5.7,Yes,720,1440,4,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.89
+Lyf,C451,2800,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+Panasonic,Eluga A3 Pro,4000,5.2,Yes,720,1280,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,108.00
+Karbonn,K9 Kavach 4G,2300,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,40.79
+Ziox,Astra Titan 4G,3000,5.0,Yes,720,1280,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+InFocus,Turbo 5,5000,5.2,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,85.19
+Karbonn,Aura Note 2,2900,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,74.40
+Zopo,Speed X,2680,5.0,Yes,1080,1920,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,88.79
+Intex,Elyt e7,4020,5.2,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,47.99
+Micromax,Canvas 2 (2017),3050,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,52.79
+Tecno,i7,4000,5.5,Yes,1080,1920,8,4000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.59
+Lava,Z10,2620,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,107.04
+Vivo,Y66,3000,5.5,Yes,720,1280,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Zopo,Flash X Plus,3100,5.5,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,No,83.88
+Vivo,Y55s,2730,5.2,Yes,1280,720,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+Nokia,3,2630,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,82.80
+Intex,Aqua Supreme+,3000,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,98.40
+ZTE,Blade A2 Plus,5000,5.5,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,149.99
+Panasonic,Eluga Prim,2500,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.28
+Coolpad,Mega 3,3050,5.5,Yes,720,1080,4,2000,16.0,8.0,8.0,Android,Yes,Yes,No,3,Yes,Yes,55.08
+Coolpad,Mega 2.5D,2500,5.5,Yes,720,1280,4,3000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.88
+Gionee,S6 Pro,3130,5.5,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Panasonic,Eluga Arc,1800,4.7,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.79
+Vivo,V3,2550,5.0,Yes,720,1280,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.76
+Micromax,Canvas Spark 3,2500,5.5,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,47.62
+InFocus,Bingo 21,2300,4.5,Yes,850,480,4,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,44.88
+Honor,Holly 2 Plus,4000,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,102.67
+Karbonn,Quattro L50 HD,2600,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Lyf,Earth 1,3500,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+Onida,i4G1,2300,5.0,No,720,1280,1,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,64.62
+HTC,One X9,3000,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,177.24
+Intex,Aqua Ace,2300,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Lava,Pixel V2,2500,5.0,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,159.60
+Gionee,F103,2400,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,122.40
+Micromax,Canvas Nitro 4G,2500,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.59
+Vivo,V1Max,2720,5.5,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,156.00
+Micromax,Canvas Selfie 2,2000,5.0,No,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,83.99
+Panasonic,Eluga Icon,3500,5.5,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,54.00
+Karbonn,Titanium Mach Five,2200,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+InFocus,M370,2230,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Micromax,Canvas Xpress 2,2500,5.0,Yes,720,1280,8,1000,8.0,13.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,74.39
+Lava,Pixel V1,2650,5.5,Yes,720,1280,4,2000,32.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Micromax,Canvas Doodle 4,3000,6.0,Yes,540,960,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,114.00
+Sony,Xperia Z3+,2930,5.2,Yes,1080,1920,8,3000,32.0,20.7,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,418.98
+LG,G4 Stylus,3000,5.7,Yes,720,1280,4,1000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Intex,Cloud N,1400,4.0,Yes,480,800,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,42.00
+Micromax,Unite 3,2000,4.7,Yes,480,800,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Micromax,Canvas Spark,2000,4.7,Yes,540,960,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,71.99
+Microsoft,Lumia 540 Dual SIM,2200,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Windows,Yes,Yes,Yes,2,Yes,No,84.00
+HTC,One M9+,2840,5.2,Yes,1440,2560,8,2000,16.0,20.0,4.0,Android,Yes,Yes,Yes,1,Yes,Yes,132.00
+Intex,Aqua Speed HD,1700,4.7,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,2,Yes,No,90.00
+Karbonn,Titanium Mach Two S360,1900,5.0,Yes,720,1280,8,1000,8.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,No,93.60
+BlackBerry,Leap,2800,5.0,Yes,720,1280,2,2000,16.0,8.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,Yes,86.40
+Asus,ZenFone C (ZC451CG),2100,4.5,Yes,480,854,2,1000,8.0,5.0,0.3,Android,Yes,Yes,No,2,Yes,No,65.99
+Lava,Iris X8,2500,5.0,Yes,720,1280,8,1000,8.0,8.0,3.0,Android,Yes,Yes,Yes,2,Yes,No,102.00
+Gionee,Pioneer P6,1950,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,49.80
+Karbonn,Machone Titanium S310,1800,4.7,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,84.00
+Micromax,Canvas Hue,3000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,67.19
+BlackBerry,Classic,2515,3.5,Yes,720,720,2,2000,16.0,8.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,No,166.79
+Intex,Aqua Power,4000,5.0,Yes,480,854,8,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,54.00
+Gionee,Marathon M3,5000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,41.88
+Honor,Holly,2000,5.0,Yes,720,1280,4,1000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,71.99
+Gionee,Elife S5.1,2050,4.8,Yes,720,1280,8,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,1,Yes,No,65.99
+HTC,Desire 816G,2600,5.5,Yes,720,1280,4,1000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,263.88
+Lenovo,Vibe X2,2300,5.0,Yes,1080,1920,8,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,209.99
+ZTE,V5,2400,5.0,Yes,720,1280,4,1000,4.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,40.79
+Xolo,Play 8X-1100,2100,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,70.66
+LG,G3 Stylus,3000,5.5,Yes,540,960,4,1000,8.0,13.0,1.3,Android,Yes,Yes,Yes,2,Yes,No,125.88
+iBall,Andi 5K Panther,1900,5.0,Yes,540,960,8,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,38.39
+HTC,Desire 616 Dual SIM,2000,5.0,Yes,720,1280,8,1000,4.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,95.99
+LG,G3 Beat,2540,5.0,Yes,720,1280,4,1000,8.0,8.0,1.3,Android,Yes,Yes,Yes,1,Yes,Yes,71.99
+Xolo,Win Q900s,1800,4.7,Yes,720,1280,4,1000,8.0,8.0,2.0,Windows,Yes,Yes,Yes,2,Yes,No,53.94
+Sony,Xperia T3,2500,5.3,Yes,720,1280,4,1000,8.0,8.0,1.1,Android,Yes,Yes,Yes,1,Yes,Yes,221.88
+Micromax,Unite 2,2000,4.7,Yes,480,800,4,1000,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,107.99
+Lava,Iris X1,1800,4.5,Yes,480,854,4,1000,4.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,43.58
+BlackBerry,Z3,2500,5.0,Yes,540,960,2,1000,8.0,5.0,1.1,BlackBerry,Yes,Yes,Yes,1,Yes,No,228.00
+Lava,Iris Pro 20,2000,4.7,Yes,540,960,4,1000,4.0,8.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,60.48
+LG,L90 Dual,2540,4.7,Yes,540,960,4,1000,8.0,8.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,39.59
+Karbonn,Titanium Octane Plus,2000,5.0,Yes,1080,1920,8,2000,16.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,No,149.93
+Lenovo,S860,4000,5.3,Yes,720,1280,4,2000,16.0,8.0,1.5,Android,Yes,Yes,Yes,2,Yes,No,224.98
+Micromax,Canvas Turbo Mini,1800,4.69,Yes,720,1280,4,1000,4.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,77.94
+Intex,Aqua Octa,2300,6.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,201.82
+Xolo,Q3000,4000,5.7,Yes,1080,1920,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,217.66
+Gionee,Pioneer P3,1700,4.3,Yes,480,800,4,512,4.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,89.93
+Nokia,Lumia 525,1430,4.0,Yes,480,800,2,1000,8.0,5.0,0.0,Windows,Yes,Yes,Yes,1,Yes,No,90.00
+Xolo,Q2000,2600,5.5,Yes,720,1280,4,1000,8.0,13.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,174.41
+Micromax,Canvas Turbo,2000,5.0,Yes,1080,1920,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,209.88
+Nokia,Lumia 1320,3400,6.0,Yes,720,1280,2,1000,8.0,5.0,0.3,Windows,Yes,Yes,Yes,1,Yes,Yes,119.52
+LG,G Pro Lite,3140,5.5,Yes,540,960,2,1000,8.0,8.0,1.3,Android,Yes,Yes,Yes,2,Yes,No,70.79
+BlackBerry,Z30,2880,5.0,Yes,720,1280,2,2000,16.0,8.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,Yes,99.60
+HTC,Desire 500,1800,4.3,Yes,480,800,4,1000,4.0,8.0,1.6,Android,Yes,Yes,Yes,2,Yes,No,228.00
+Nokia,Lumia 625,2000,4.7,Yes,480,800,2,512,8.0,5.0,0.3,Windows,Yes,Yes,Yes,1,Yes,Yes,59.99
+Xolo,Play T1000,2000,4.7,Yes,720,1280,4,1000,4.0,8.0,2.0,Android,Yes,Yes,Yes,1,Yes,No,169.84
+Gionee,Elife E3,1800,4.7,Yes,720,1280,4,1000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,77.99
+Samsung,Galaxy S4 Zoom,2330,4.3,Yes,560,960,2,1000,8.0,16.0,1.9,Android,Yes,Yes,Yes,1,Yes,Yes,191.88
+HTC,Desire 600,1860,4.5,Yes,540,960,4,1000,8.0,8.0,1.6,Android,Yes,Yes,Yes,2,Yes,No,270.00
+Samsung,Galaxy Pocket,1200,2.8,Yes,240,320,1,289,3.0,2.0,0.0,Android,Yes,Yes,Yes,1,Yes,No,38.28
+Samsung,Galaxy Grand Duos,2100,5.0,Yes,480,800,2,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,107.99
+Nokia,Asha 501,1200,3.0,Yes,240,320,1,64,0.128,3.2,0.0,Cyanogen,Yes,Yes,No,2,No,No,59.99
+Nokia,Lumia 610,1300,3.7,Yes,480,800,1,256,8.0,5.0,0.0,Windows,Yes,Yes,Yes,1,Yes,No,59.88
+Nokia,Lumia 520,1430,4.0,Yes,480,800,2,512,8.0,5.0,0.0,Windows,Yes,Yes,Yes,1,Yes,No,46.20
+LG,Optimus L3 II Dual,1540,3.2,Yes,240,320,1,512,4.0,3.0,0.0,Android,Yes,Yes,Yes,2,Yes,No,23.99
+BlackBerry,Curve 9220,1450,2.44,No,240,320,1,512,0.512,2.0,0.0,BlackBerry,Yes,Yes,No,1,No,No,83.99
+Coolpad,Cool 5,4000,6.22,Yes,720,1520,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,1,No,No,83.99
+iVoomi,Innelo 1,3000,5.86,Yes,720,1520,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Mobiistar,XQ Dual,3000,5.5,Yes,1080,1920,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,62.39
+Comio,X1 Note,2900,6.0,Yes,1080,2160,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,75.60
+Intex,Aqua Lions N1,1400,4.0,Yes,480,800,4,1000,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,31.08
+Karbonn,A40 Indian,1400,4.0,Yes,480,800,4,1000,8.0,2.0,0.3,Android,Yes,Yes,No,2,Yes,Yes,39.00
+Videocon,Metal Pro 2,2000,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+iVoomi,Me 1+,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+iVoomi,Me 1,3000,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Asus,ZenFone Live,2650,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,55.19
+Intex,Aqua Crystal,2100,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,72.00
+Alcatel,Pixi 4 (5),2000,5.0,Yes,480,854,1,1000,8.0,8.0,5.0,Android,Yes,No,Yes,2,Yes,Yes,35.99
+Reach,Allure,2600,5.5,Yes,540,960,4,1000,8.0,10.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,32.39
+Karbonn,Quattro L52,2250,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,103.79
+InFocus,Bingo 10,2000,4.5,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,38.39
+HTC,Desire 626 Dual SIM,2000,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.99
+Intex,Aqua Trend,3000,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.33
+HTC,Desire 310,2000,4.5,Yes,480,854,4,512,4.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,32.39
+Xolo,Q1000 Opus,2000,5.0,Yes,480,854,4,1000,4.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,113.99
+BlackBerry,9720,1450,2.8,Yes,360,480,1,512,0.512,5.0,0.0,BlackBerry,Yes,Yes,Yes,1,Yes,No,90.00
+Zen,Cinemax 3,2900,5.5,Yes,480,854,4,2000,16.0,5.0,3.2,Android,Yes,Yes,Yes,2,Yes,No,39.59
+Samsung,Galaxy S20+,4500,6.7,Yes,1440,3200,8,8000,128.0,12.0,10.0,Android,Yes,Yes,Yes,2,Yes,Yes,887.99
+Samsung,Galaxy S20 Ultra,5000,6.9,Yes,1440,3200,8,12000,128.0,108.0,40.0,Android,Yes,Yes,Yes,2,Yes,Yes,1115.99
+Xiaomi,Redmi 8A Dual,5000,6.22,Yes,720,1520,8,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+Lava,Z53,4120,6.1,Yes,600,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.95
+Samsung,Galaxy Z Flip,3300,6.7,Yes,1080,2636,8,8000,256.0,12.0,10.0,Android,Yes,Yes,Yes,1,No,No,2099.88
+Samsung,Galaxy S20,4000,6.2,Yes,1440,3200,8,8000,128.0,12.0,10.0,Android,Yes,Yes,Yes,2,Yes,Yes,803.99
+Lava,Z71,3200,5.7,Yes,720,1520,8,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,No,75.59
+Nokia,2.3,4000,6.2,Yes,720,1520,4,2000,32.0,13.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,85.79
+Tecno,Spark Power,6000,6.35,Yes,720,1548,8,4000,64.0,13.0,13.0,Android,Yes,Yes,No,2,Yes,Yes,101.99
+Vivo,Y19,5000,6.53,Yes,1080,2340,8,4000,128.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.88
+Lava,Z41,2500,5.0,Yes,480,854,4,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,No,46.79
+Tecno,Camon 12 Air,4000,6.55,Yes,720,1600,8,4000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.52
+Micromax,iOne Note,3950,6.09,Yes,720,1560,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,80.33
+Google,Pixel 4 XL,3700,6.3,Yes,1440,3040,8,6000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,1006.80
+Google,Pixel 4,2800,5.7,Yes,1080,2280,8,6000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,834.00
+Lenovo,K10 Plus,4050,6.22,Yes,720,1520,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Samsung,Galaxy A70s,4500,6.7,Yes,1080,2400,8,6000,128.0,64.0,32.0,Android,Yes,Yes,Yes,1,No,No,311.99
+Apple,iPhone 11 Pro,3046,5.8,Yes,1125,2436,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,1162.80
+Samsung,Galaxy A20s,4000,6.5,Yes,720,1560,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Oppo,Reno 2F,4000,6.53,Yes,1080,2340,8,8000,128.0,48.0,16.0,Android,Yes,Yes,No,1,No,No,250.80
+Samsung,Galaxy A30s,4000,6.4,Yes,720,1560,8,4000,64.0,25.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.76
+Lava,Z93,3500,6.22,Yes,720,1520,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,No,97.19
+HTC,Wildfire X,3300,6.22,Yes,720,1520,8,3000,32.0,12.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,95.99
+Samsung,Galaxy A10s,4000,6.2,Yes,720,1520,8,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.99
+Huawei,Mate 30 Pro,4500,6.53,Yes,1176,2400,8,8000,128.0,40.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,927.59
+Samsung,Galaxy Note 10,3500,6.3,Yes,1080,2280,8,8000,256.0,12.0,10.0,Android,Yes,Yes,Yes,2,Yes,Yes,839.99
+Tecno,Phantom 9,3500,6.4,Yes,1080,2340,8,6000,128.0,16.0,32.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+LG,W30 Pro,4050,6.22,Yes,720,1520,8,4000,64.0,13.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,149.76
+Vivo,Y12,5000,6.35,Yes,720,1544,8,3000,64.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,114.60
+Itel,A46,2400,5.45,Yes,720,1440,8,2000,16.0,8.0,5.0,Android,No,No,No,1,No,No,53.40
+Huawei,Y9 Prime 2019,4000,6.59,Yes,1080,2340,8,4000,128.0,16.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,173.40
+Samsung,Galaxy A80,3700,6.7,Yes,1080,2400,8,8000,128.0,48.0,0.0,Android,Yes,Yes,Yes,2,Yes,Yes,431.88
+Oppo,Reno,3765,6.4,Yes,1080,2340,8,8000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,323.88
+Samsung,Galaxy A2 Core,2600,5.0,Yes,540,960,8,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,63.48
+Samsung,Galaxy A20,4000,6.4,Yes,720,1560,8,3000,32.0,13.0,8.0,Android,Yes,Yes,No,1,No,No,118.80
+Vivo,Y91i,4030,6.22,Yes,720,1520,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,81.59
+Panasonic,Eluga Ray 800,4000,5.5,Yes,1080,1920,8,4000,64.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,77.86
+Lava,Z40,2250,4.0,Yes,400,800,4,1000,8.0,2.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+Samsung,Galaxy Fold,4380,7.3,Yes,1536,2152,8,12000,512.0,16.0,10.0,Android,Yes,Yes,Yes,2,Yes,Yes,1979.99
+Gionee,F205 Pro,3000,5.45,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,No,No,53.86
+Tecno,Camon iAce 2X,3050,5.5,Yes,720,1440,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,70.79
+Tecno,Camon iAce 2,3050,5.5,Yes,720,1440,4,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,62.39
+Coolpad,Cool 3,3000,5.71,Yes,720,1520,8,3000,32.0,8.0,5.0,Android,Yes,Yes,No,2,No,No,55.79
+Vivo,Y91,4030,6.22,Yes,720,1520,8,2000,32.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,100.19
+Itel,A44 Air,2400,5.45,Yes,480,960,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.01
+Oppo,R15 Pro,3400,6.28,Yes,1080,2280,8,6000,128.0,20.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,171.59
+10.or,G2,5000,6.18,Yes,1080,2246,8,4000,64.0,16.0,12.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Xolo,Era 4X,3000,5.45,Yes,720,1440,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Micromax,Infinity N11,4000,6.19,Yes,720,1500,8,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,70.79
+Tambo,TA-3,2100,4.95,Yes,480,960,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.48
+Tambo,TA-2,2500,5.0,Yes,480,854,8,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,40.80
+Meizu,M6T,3300,5.7,Yes,720,1440,8,3000,32.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,107.99
+Meizu,C9,3000,5.45,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,42.47
+Motorola,Moto G7 Power,5000,6.2,Yes,720,1520,8,3000,32.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,130.44
+Motorola,Moto G7,3000,6.2,Yes,1080,2270,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.53
+Itel,A44 Power,4000,5.45,Yes,480,960,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.88
+Vivo,Y95,4030,6.22,Yes,720,1520,8,4000,64.0,13.0,20.0,Android,Yes,Yes,Yes,1,No,No,125.99
+Lava,Z81,3000,5.7,Yes,720,1440,4,2000,16.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Vivo,Y93,4030,6.2,Yes,720,1580,8,3000,64.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,119.40
+Micromax,Bharat 5 Infinity Edition,5000,5.45,Yes,720,1440,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,56.39
+Micromax,Spark Go,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,37.19
+Panasonic,Eluga Z1 Pro,4000,6.19,Yes,720,1500,8,4000,64.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,101.88
+Panasonic,Eluga Z1,4000,6.19,Yes,720,1500,8,3000,32.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,83.88
+Panasonic,Eluga Ray 530,3000,5.7,Yes,720,1440,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Razer,Phone 2,4000,5.72,Yes,1440,2560,8,8000,64.0,12.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,659.88
+iVoomi,Z1,2800,5.67,Yes,720,1498,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.88
+Panasonic,Eluga X1,3000,6.18,Yes,1080,2246,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,106.79
+Intex,Staari 11,2400,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+iVoomi,iPro,2000,4.95,Yes,480,960,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+Vivo,V11,3315,6.3,Yes,1080,2340,8,6000,64.0,16.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,170.75
+Motorola,One,3000,5.9,Yes,720,1440,8,4000,64.0,13.0,8.0,Android,Yes,Yes,No,1,No,No,113.88
+HTC,U12 Life,3600,6.0,Yes,1080,2160,8,4000,64.0,16.0,13.0,Android,Yes,Yes,Yes,2,No,No,155.88
+Yu,Ace,4000,5.45,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,47.99
+Homtom,H5,3300,5.5,Yes,720,1440,8,3000,32.0,16.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,58.08
+Homtom,H3,3500,5.5,Yes,720,1440,8,3000,32.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,58.80
+Homtom,H1,3000,5.5,Yes,640,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,44.99
+Lava,Z60s,2500,5.0,Yes,720,1080,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,1,No,No,58.68
+Itel,A22 Pro,2400,5.0,Yes,480,960,4,2000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,52.20
+Itel,A45,2700,5.45,Yes,720,1440,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Samsung,Galaxy A8 Star,3700,6.28,Yes,1880,2220,8,6000,64.0,16.0,24.0,Android,Yes,Yes,Yes,2,No,No,249.60
+Vivo,Y83 Pro,3260,6.22,Yes,720,1520,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,167.40
+Tecno,Camon iSky 2,3050,5.5,Yes,720,1440,4,2000,16.0,13.0,13.0,Android,Yes,Yes,No,2,Yes,Yes,70.79
+Tecno,Camon iACE,3050,5.5,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,55.19
+Oppo,R17,3500,6.4,Yes,1080,2280,8,8000,128.0,16.0,25.0,Android,Yes,Yes,Yes,1,No,No,215.88
+Meizu,16,3010,6.0,Yes,1080,2160,8,6000,64.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,233.88
+BlackBerry,Evolve,4000,5.99,Yes,1080,2160,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,1,No,No,167.99
+Samsung,Galaxy On8 (2018),3500,6.0,Yes,720,1480,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.88
+Tecno,Camon iTwin,4000,6.0,Yes,720,1440,4,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Vivo,Y71i,3285,6.0,Yes,720,1440,4,2000,16.0,8.0,5.0,Android,No,Yes,No,1,No,No,90.00
+Alcatel,5V,4000,6.2,Yes,720,1500,8,3000,32.0,12.0,8.0,Android,Yes,Yes,Yes,1,No,No,155.99
+Intex,Infie 33,3000,5.34,Yes,480,960,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+Intex,Infie 3,2000,4.95,Yes,480,960,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.40
+Oppo,A3s,4230,6.2,Yes,720,1520,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,89.40
+Oppo,A5,4230,6.2,Yes,720,1520,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Vivo,Z10,3225,6.0,Yes,720,1440,8,4000,32.0,16.0,24.0,Android,Yes,Yes,Yes,1,No,No,95.93
+Samsung,Galaxy On6,3000,5.6,Yes,720,1480,8,4000,64.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,Yes,211.20
+Alcatel,1,2000,5.0,Yes,480,960,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,41.99
+Vivo,Y81,3260,6.22,Yes,720,1520,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,117.48
+Panasonic,P90,2400,5.0,Yes,720,1280,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,46.79
+Lephone,Dazen 6A,3000,5.7,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,No,No,94.80
+Comio,C1 Pro,2500,5.0,Yes,720,1440,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+iVoomi,V5,2800,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+LG,Q Stylus+,3300,6.2,Yes,1080,2160,8,4000,64.0,16.0,5.0,Android,Yes,Yes,Yes,1,No,No,203.99
+LG,Q Stylus,3300,6.2,Yes,1080,2160,8,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,1,No,No,179.99
+Lenovo,A5,4000,5.45,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,63.60
+Nokia,3.1,2990,5.2,Yes,720,1440,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,71.93
+Aqua,Jazz,2800,5.0,Yes,720,1280,4,1000,16.0,13.0,5.0,Android,Yes,Yes,No,1,No,No,55.19
+Vivo,Y83,3260,6.22,Yes,720,1520,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,124.79
+BlackBerry,KEY2,3500,4.5,Yes,1080,1620,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.93
+Mobiistar,CQ,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,13.0,Android,Yes,Yes,No,2,Yes,Yes,51.53
+Micromax,Bharat Go,2000,4.5,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.47
+iVoomi,i2,4000,5.45,Yes,720,1440,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,Yes,51.59
+LG,Q7+,3000,5.5,Yes,1080,2160,8,4000,64.0,16.0,5.0,Android,Yes,Yes,Yes,1,No,No,142.19
+LG,Q7,3000,5.5,Yes,1080,2160,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,106.50
+HTC,U12+,3500,6.0,Yes,1440,2880,8,6000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,899.88
+Nokia,X6,3060,5.8,Yes,1080,2280,8,4000,32.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Kult,Impulse,4000,5.99,Yes,720,1440,4,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,No,No,52.54
+Samsung,Galaxy J4,3000,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.09
+Karbonn,Frames S9,2900,5.2,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,No,No,83.99
+Intex,Staari 10,2800,5.2,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Panasonic,P95,2300,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,No,No,44.10
+LG,G7 ThinQ,3000,6.1,Yes,1440,3120,8,4000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,No,No,431.99
+Samsung,Galaxy A6,3000,5.6,Yes,720,1480,8,4000,32.0,16.0,16.0,Android,Yes,Yes,Yes,1,No,No,155.99
+Samsung,Galaxy J2 (2018),2600,5.0,Yes,540,960,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,81.59
+Vivo,Y53i,2500,5.0,Yes,540,960,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,92.47
+Vivo,V9 Youth,3260,6.3,Yes,1080,2280,8,4000,32.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Motorola,Moto E5,4000,5.7,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,95.40
+Vivo,Y71,3360,6.0,Yes,720,1440,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,102.00
+Coolpad,A1,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,1,No,No,55.08
+Samsung,Galaxy J7 Duo,3000,5.5,Yes,720,1280,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,No,127.68
+Honor,7A,3000,5.7,Yes,720,1440,8,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Lava,Z91,3000,5.7,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,No,No,No,2,No,No,95.99
+Oppo,A83 (2018),3180,5.7,Yes,720,1440,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,113.88
+LG,K9,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,75.59
+Samsung,Galaxy J7 Prime 2,3300,5.5,Yes,1080,1920,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,126.00
+Intex,Aqua Lions E3,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,No,No,47.99
+Itel,A44 Pro,2400,5.45,Yes,720,1440,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,46.68
+Itel,A44,2400,5.45,Yes,480,960,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,79.20
+Motorola,Moto G6 Plus,3200,5.93,Yes,1080,2160,8,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,154.80
+Lava,Z50,2000,4.5,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,54.48
+Sony,Xperia XZ2,3180,5.7,Yes,1080,2160,8,4000,64.0,19.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,694.80
+Nokia,8110 4G,1500,2.45,No,240,320,2,512,4.0,2.0,0.0,Cyanogen,Yes,Yes,Yes,2,Yes,Yes,35.99
+Alcatel,3V,3000,6.0,Yes,1080,2160,4,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.99
+Alcatel,3X,3000,5.7,Yes,720,1440,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Cat,S61,4500,5.2,Yes,1080,1920,8,4000,64.0,16.0,8.0,Android,Yes,Yes,No,1,No,No,814.80
+Karbonn,Titanium Jumbo 2,4000,5.5,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,98.71
+Celkon,UniQ,2700,5.0,Yes,720,1280,4,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,86.99
+Comio,C2 Lite,3900,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Comio,S1 Lite,3050,5.0,Yes,720,1280,4,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,64.79
+Ziox,Duopix F9,2500,5.0,Yes,720,1280,4,1000,16.0,8.0,8.0,Android,Yes,Yes,Yes,1,No,No,43.19
+Intex,Aqua Lions T1 Lite,2200,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,1,No,No,45.59
+Panasonic,P100,2200,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,53.99
+InFocus,A2,2400,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,1,No,No,46.79
+Oppo,A71 (2018),3000,5.2,Yes,720,1280,8,3000,16.0,13.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,95.99
+Vivo,Y53,2500,5.0,Yes,540,960,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.88
+Ziox,Astra Star,2350,5.0,Yes,480,854,4,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.59
+HTC,U11 EYEs,3930,6.0,Yes,1080,2160,8,4000,64.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.99
+Karbonn,Titanium Frames S7,3000,5.5,Yes,1080,1920,4,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.59
+iVoomi,i1s,3000,5.45,Yes,640,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Sony,Xperia L2,3300,5.5,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,879.60
+Sony,Xperia XA2 Ultra,3580,6.0,Yes,1080,1920,8,4000,32.0,23.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,889.97
+Micromax,Bharat 5 Plus,5000,5.2,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,1,No,No,53.64
+Gionee,S10 Lite,3100,5.2,Yes,720,1280,4,4000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,75.48
+Ziox,Duopix R1,2600,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,38.39
+Celkon,Star 4G+,1800,4.0,Yes,480,800,4,512,4.0,3.2,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+Karbonn,K9 Music 4G,2200,5.0,Yes,480,854,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,50.28
+Itel,A20,1700,4.0,Yes,480,800,4,1000,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,44.99
+Jivi,Revolution TnT3,2300,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,30.60
+Panasonic,Eluga I9,2500,5.0,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.88
+Intex,Elyt E6,4000,5.0,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,80.75
+Micromax,Bharat 2 Plus,1600,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,28.08
+Micromax,Canvas Infinity Pro,3000,5.7,Yes,720,1440,8,4000,64.0,20.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Kult,Ambition,2600,5.0,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,47.99
+Micromax,Bharat 5,5000,5.2,Yes,720,1280,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.48
+Intex,Elyt Dual,2400,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,63.54
+Gionee,F205,2670,5.45,Yes,720,1440,8,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Panasonic,P91,2500,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,No,Yes,2,Yes,Yes,95.88
+Infinix,Zero 5,4350,5.98,Yes,1080,1920,8,6000,64.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+Intex,Aqua Jewel 2,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.64
+Intex,Aqua Lions T1,2700,5.2,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.94
+Karbonn,K9 Smart Eco,2300,5.0,Yes,480,854,4,1000,8.0,2.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+Karbonn,K9 Smart Yuva,2300,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.60
+Karbonn,A1 Indian,1500,4.0,Yes,480,800,4,1000,8.0,3.2,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,29.40
+Billion,Capture+,3500,5.5,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.68
+Zen,Admire Unity,2300,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Panasonic,Eluga I5,2500,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Itel,S21,2700,5.0,Yes,480,854,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.80
+Panasonic,Eluga A4,5000,5.2,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.22
+Xiaomi,Redmi Y1 Lite,3080,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Huawei,Holly 4 Plus,4000,5.5,Yes,720,1290,4,3000,32.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.88
+Karbonn,K9 Smart Selfie,2300,5.0,Yes,480,854,4,1000,8.0,5.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,39.38
+Celkon,Smart 4G,1500,4.0,Yes,480,800,4,1000,8.0,3.2,2.0,Android,Yes,Yes,No,2,Yes,Yes,38.39
+Sony,Xperia R1 Plus,2620,5.2,Yes,720,1280,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,114.00
+Sony,Xperia R1,2620,5.2,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.88
+Karbonn,Titanium Jumbo,4000,5.0,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,89.88
+Micromax,Bharat-2 Ultra,1300,4.0,Yes,480,800,4,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,27.59
+Nokia,2,4100,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Lephone,W15,2000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.64
+Xolo,Era 3,2500,5.0,Yes,720,1280,4,1000,8.0,5.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,71.99
+Xolo,Era 2V,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Xolo,Era 3X,3000,5.0,Yes,720,1280,4,3000,16.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.99
+Samsung,Galaxy J2 (2017),2000,4.7,Yes,540,960,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,72.00
+Swipe,Elite Pro,2500,5.0,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,No,Yes,2,Yes,Yes,52.79
+BlackBerry,Motion,4000,5.5,Yes,1080,1920,8,4000,32.0,12.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,359.99
+Lava,Z90,2750,5.2,Yes,720,1280,4,3000,32.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Lava,Z80,2500,5.0,Yes,720,1280,4,3000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,56.70
+Lava,Z70,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,63.35
+Comio,C2,4000,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,50.39
+LG,K7i,2500,5.0,Yes,480,854,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,51.85
+Ziox,Astra Curve 4G,2200,5.0,Yes,480,854,4,2000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.59
+Panasonic,Eluga I4,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,68.39
+10.or,G,4000,5.5,Yes,1080,1920,8,3000,32.0,13.0,16.0,Android,Yes,No,Yes,2,Yes,Yes,83.99
+Karbonn,K9 Smart Grand,2300,5.2,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.88
+Intex,Aqua Lions 2,2400,5.0,Yes,240,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,46.68
+Itel,S41,2700,5.0,Yes,720,1280,4,3000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,64.92
+Intex,Aqua S1,2300,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,39.59
+Intex,Cloud C1,1750,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.40
+Gionee,X1s,4000,5.2,Yes,720,1280,4,3000,16.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,68.39
+Micromax,Bharat 4,2500,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.76
+Micromax,Bharat 3,2000,4.5,Yes,480,854,1,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,39.48
+Panasonic,Eluga Ray 700,5000,5.5,Yes,1080,1920,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Panasonic,Eluga Ray 500,4000,5.0,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,70.69
+Yu,reka 2,3930,5.5,Yes,1080,1920,8,4000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.99
+Intex,Aqua 5.5 VR+,2800,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.59
+InFocus,Snap 4,3000,5.2,Yes,720,1280,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,74.34
+10.or,E,4000,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Lenovo,K8,4000,5.2,Yes,720,1280,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,84.48
+Panasonic,P9,2210,5.0,Yes,480,854,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,79.25
+Oppo,A71,3000,5.2,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.88
+iVoomi,Me 3s,3000,5.2,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.40
+iVoomi,Me 3,3000,5.2,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.48
+Alcatel,A7,4000,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,1,No,Yes,107.99
+Cat,S31,4000,4.7,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,No,No,335.88
+Cat,S41,5000,5.0,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,No,539.88
+Sony,Xperia XA1 Plus,3430,5.5,Yes,1080,1920,8,3000,32.0,23.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,191.88
+Intex,Aqua Note 5.5,2800,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,52.68
+Jivi,Grand 3000,3000,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,No,1,Yes,Yes,77.39
+Jivi,Prime 390,2400,5.0,Yes,480,854,4,1000,16.0,8.0,5.0,Android,Yes,Yes,No,1,Yes,Yes,62.39
+Jivi,Prime 300,2500,5.0,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,No,1,Yes,Yes,43.19
+Jivi,Energy E12,2300,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,No,1,Yes,Yes,29.99
+Jivi,Energy E3,1800,4.0,Yes,480,800,4,512,4.0,5.0,2.0,Android,Yes,Yes,No,1,Yes,Yes,31.19
+Intex,Aqua Style III,2500,5.0,Yes,480,854,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,1,No,No,59.99
+Vivo,Y69,3000,5.5,Yes,720,1280,8,3000,32.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,114.00
+iVoomi,Me 2,2000,4.5,Yes,480,854,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,34.80
+Swipe,Neo Power,2500,4.0,Yes,480,854,4,512,4.0,5.0,2.0,Android,Yes,No,Yes,2,Yes,Yes,29.99
+Meizu,M6 Note,4000,5.5,Yes,1080,1920,8,3000,16.0,12.0,16.0,Android,Yes,No,Yes,2,Yes,Yes,168.00
+Nuu Mobile,Q500,2000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Nuu Mobile,Q626,2000,5.0,Yes,720,1280,4,2000,32.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Alcatel,U5 HD,2200,5.0,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,No,77.99
+M-tech,TEZ4G,2400,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.40
+Gionee,X1,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.74
+Comio,C1,2700,5.0,Yes,720,1280,4,1000,32.0,8.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,59.94
+Comio,S1,2700,5.2,Yes,720,1280,4,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,Yes,65.99
+Comio,P1,5000,5.2,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,Yes,103.99
+Micromax,Evok Dual Note,3000,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,53.99
+Asus,ZenFone 4,3300,5.5,Yes,1080,1920,1,4000,64.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+Swipe,Elite 4G,2500,5.0,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+Panasonic,Eluga I2 Activ,2200,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.88
+Asus,ZenFone 4 Selfie DC (ZD553KL),3000,5.5,Yes,720,1280,8,4000,64.0,16.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.98
+Itel,PowerPro P41,5000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,1,No,No,46.56
+Panasonic,Eluga A3,4000,5.2,Yes,720,1280,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,Yes,71.22
+Gionee,A1 Lite,4000,5.3,Yes,720,1280,8,3000,32.0,13.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Karbonn,A41 Power,2300,4.0,Yes,480,800,4,1000,8.0,2.0,0.3,Android,Yes,Yes,No,2,No,No,33.05
+Swipe,Konnect Power,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,43.19
+Kult,Beyond,3000,5.2,Yes,720,1280,4,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Coolpad,Note 5 Lite C,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,55.32
+Karbonn,Aura Note Play,3300,6.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,70.79
+Infinix,Hot 4 Pro,4000,5.5,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,89.99
+Infinix,Note 4,4300,5.7,Yes,1080,1920,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,No,Yes,107.99
+Micromax,Selfie 2,3000,5.2,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,No,2,No,Yes,58.74
+Meizu,Pro 7,3000,5.2,Yes,1080,1920,8,4000,64.0,12.0,16.0,Android,Yes,No,Yes,2,No,No,336.00
+Yu,nique 2,2500,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Lyf,C459,2000,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,Yes,43.08
+Samsung,Galaxy J7 Nxt,3000,5.5,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+Intex,Aqua Lions 3,4000,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,1,No,No,65.28
+iVoomi,Me5,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,39.48
+iVoomi,Me4,2000,4.5,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.40
+Intex,Aqua Zenith,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,49.19
+Micromax,Canvas 1,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,44.28
+Intex,Aqua Selfie,3000,5.5,Yes,720,1280,1,2000,16.0,8.0,5.0,Android,Yes,Yes,No,1,Yes,Yes,58.55
+Asus,ZenFone 4 Selfie,3000,5.5,Yes,1080,1920,4,4000,32.0,16.0,12.0,Android,Yes,Yes,Yes,1,Yes,Yes,77.39
+Xolo,Era 1X Pro,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,82.66
+LG,Q6+,3000,5.5,Yes,1080,2160,8,4000,64.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,119.99
+Intex,Aqua S3,2450,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.76
+Nubia,M2 Play,3000,5.5,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Samsung,Galaxy J7 Max,3300,5.7,Yes,1080,1920,8,4000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,132.55
+Samsung,Galaxy J7 Pro,3600,5.5,Yes,1080,1920,8,3000,64.0,13.0,13.0,Android,Yes,Yes,Yes,2,No,Yes,202.80
+Lyf,Water 7S,2800,5.5,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.88
+Panasonic,Eluga I3 Mega,4000,5.5,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,69.97
+Ziox,Astra VIVA 4G,2500,5.0,No,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,41.99
+Lava,A77,2000,4.5,Yes,480,800,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.80
+Karbonn,Aura Power 4G Plus,4000,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,40.79
+Itel,Wish A21,2000,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,46.32
+Itel,Wish A41+,2400,5.0,Yes,480,854,4,2000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,78.07
+Motorola,Moto C Plus,4000,5.0,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,74.28
+Samsung,Z4,1050,4.5,Yes,480,800,4,1000,8.0,5.0,5.0,Tizen,Yes,Yes,Yes,2,Yes,Yes,57.48
+Panasonic,P85,4000,5.0,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,No,2,Yes,Yes,77.99
+Panasonic,Eluga Ray,4000,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,95.99
+Karbonn,Aura 4G,2150,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,75.91
+Intex,Aqua Crystal Plus,2100,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,89.88
+Asus,ZenFone Go 5.5 (ZB552KL),3000,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,73.32
+Ziox,Astra Colors 4G,4000,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,52.79
+Zen,Admire Joy,2000,5.0,No,480,854,4,768,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+Intex,Aqua A4,1750,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,Yes,55.50
+Zopo,Color M5,2100,5.0,Yes,480,854,4,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,40.67
+Videocon,Krypton 22,2450,5.0,Yes,480,854,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+Zen,Admire Metal,2500,5.0,Yes,720,1280,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,67.19
+Motorola,Moto E4 Plus,5000,5.5,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Ziox,Astra Force 4G,3000,5.0,Yes,480,854,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,41.99
+Zopo,Color M4,1450,4.0,No,480,800,4,1000,16.0,0.0,0.0,Android,Yes,Yes,Yes,2,No,No,58.66
+Honor,Bee 2,2100,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.99
+Tecno,i5 Pro,4000,5.5,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,81.47
+Tecno,i3 Pro,3050,5.0,Yes,720,1280,4,3000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.92
+Tecno,i5,4000,5.5,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,79.55
+Tecno,i3,3050,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,85.70
+Videocon,Delite 11+,3000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,67.19
+Motorola,Moto C,2350,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,65.99
+Motorola,Moto E4,2800,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,101.99
+Micromax,Evok Note,4000,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,No,1,Yes,Yes,59.52
+Zopo,Color X 5.5,2500,5.5,Yes,720,1280,4,3000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,No,No,47.76
+Lephone,W7,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,Yes,49.26
+Ziox,QUIQ Flash 4G,2450,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,44.39
+Intex,ELYT-e1,2200,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,73.20
+Sansui,Horizon 1,2000,4.5,Yes,480,854,4,1000,8.0,5.0,3.2,Android,Yes,Yes,Yes,2,Yes,Yes,46.80
+Micromax,Bharat 2,1300,4.0,Yes,480,800,4,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,No,Yes,28.31
+Swipe,Konnect Neo 4G,2000,4.0,Yes,480,800,4,512,4.0,5.0,1.3,Android,Yes,Yes,Yes,2,Yes,Yes,23.99
+Itel,Wish A41,2400,5.0,No,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.56
+Panasonic,Eluga Ray X,4000,5.5,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.16
+Panasonic,Eluga Ray Max,3000,5.2,Yes,1080,1920,8,4000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,137.99
+Intex,Aqua 4G Mini,1450,4.0,Yes,480,800,4,512,4.0,5.0,1.3,Android,Yes,Yes,No,2,No,Yes,47.22
+Micromax,Spark Vdeo,1800,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,No,59.99
+Zen,Admire Swadesh,2000,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,No,2,Yes,Yes,57.48
+Nubia,N2,5000,5.5,Yes,1080,1920,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,108.59
+Nubia,M2 Lite,3000,5.5,Yes,720,1280,8,3000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,85.92
+Karbonn,Aura Sleek 4G,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,68.02
+Intex,Aqua Trend Lite,2600,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Lenovo,Vibe B,2000,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,No,77.40
+LeEco,Le Pro 3 Elite,4070,5.5,Yes,1080,1920,4,4000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+iVoomi,iV505,3000,5.0,Yes,1440,2560,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,46.80
+Swipe,Elite Sense,2500,5.0,Yes,720,1280,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,52.80
+Intex,Aqua Strong 5.1+,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,Yes,44.28
+Nubia,N1 lite,3000,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+ZTE,Blade V8 Mini,2800,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,No,62.40
+Alcatel,A5 LED,2800,5.2,Yes,720,1280,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,180.31
+Sony,Xperia XA1,2300,5.0,Yes,720,1280,8,3000,32.0,23.0,8.0,Android,Yes,Yes,No,2,No,Yes,95.93
+Swipe,Elite 3,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Nokia,5,3000,5.2,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Swipe,Konnect Star,1800,4.0,Yes,480,854,4,1000,16.0,5.0,1.3,Android,Yes,Yes,No,2,Yes,Yes,32.28
+Asus,ZenFone Go 5.0 LTE (ZB500KL),2600,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Intex,Aqua Lions 4G,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,52.80
+Intex,Aqua 4.0,1500,4.0,Yes,360,640,4,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,49.14
+Intex,Aqua Amaze+,2000,4.7,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,48.60
+Swipe,Elite Power,4000,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Lava,X41+,2500,5.0,Yes,720,1280,4,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,67.19
+Intex,Cloud Style 4G,2500,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,74.39
+Micromax,Vdeo 3,2000,5.0,Yes,720,1280,1,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,1,No,No,53.99
+Micromax,Vdeo 4,4000,5.0,Yes,720,1280,1,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,47.99
+Samsung,Galaxy J2 Ace,2600,5.0,Yes,540,960,1,1000,8.0,8.0,5.0,Android,Yes,No,No,2,No,No,71.88
+Swipe,Konnect Grand,2500,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,No,35.99
+Xolo,Era 2X,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,73.19
+Lyf,Water 3,3000,5.5,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,No,Yes,Yes,2,No,Yes,84.00
+Lyf,F1S,3000,5.2,Yes,1080,1920,8,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,91.19
+Karbonn,K9 Viraat 4G,2800,5.5,Yes,720,1280,4,1000,8.0,5.0,3.2,Android,Yes,Yes,Yes,2,Yes,Yes,70.80
+Lyf,Wind 7S,2250,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,73.19
+LG,Stylus 3,3200,5.7,Yes,720,1280,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,83.99
+LG,K8 (2017),2500,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.40
+Zuk,Edge,3100,5.5,Yes,1080,1920,4,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,349.49
+Zen,Cinemax Click,2700,5.5,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,46.79
+Lava,A76+,1850,4.5,Yes,480,800,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,No,No,67.19
+Swipe,Elite Max,3000,5.5,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,155.99
+Panasonic,P88,2600,5.3,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,No,Yes,2,Yes,Yes,96.00
+Swipe,Elite Star,2000,4.0,Yes,480,800,4,1000,8.0,5.0,1.3,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Gionee,P7,2300,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,No,Yes,2,No,No,89.99
+Micromax,Vdeo 2,1800,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.40
+Micromax,Vdeo 1,1600,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Meizu,M5 Note,4000,5.5,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,65.88
+Lyf,Water 9,2800,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,66.60
+Lava,X50+,2800,5.5,Yes,720,1280,4,2000,32.0,8.0,5.0,Android,Yes,Yes,No,2,No,Yes,59.99
+Meizu,Pro 6 Plus,3400,5.7,Yes,1440,2560,8,4000,64.0,12.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,331.20
+Panasonic,Eluga Mark 2,3000,5.5,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.88
+HTC,10 evo,3200,5.5,Yes,1440,2560,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,133.20
+Lyf,Wind 7i,2250,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,61.19
+Panasonic,P71,2000,5.0,Yes,720,1280,4,1000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,No,Yes,83.98
+Zopo,Color F2,2300,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,55.18
+Motorola,Moto M,3050,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Lyf,F8,2000,4.5,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+Huawei,Mate 9,4000,5.9,Yes,1080,1920,8,4000,64.0,20.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,647.80
+Intex,Aqua Power M,4350,5.0,Yes,720,1280,4,1000,8.0,0.0,0.0,Android,Yes,Yes,Yes,2,No,No,41.99
+Zen,Cinemax 2+,2900,5.5,Yes,480,854,4,1000,8.0,5.0,3.2,Android,Yes,Yes,Yes,2,Yes,No,44.87
+Swipe,Elite 2 Plus,2500,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Samsung,Galaxy On Nxt,3300,5.5,Yes,1080,1920,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,134.40
+Xolo,Era 2,2350,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,No,No,49.19
+Zopo,Color F5,2100,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,51.47
+Intex,Cloud S9,3650,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,81.26
+Intex,Aqua Q8,1650,4.5,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,32.39
+Intex,Aqua Craze II,2500,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.15
+Intex,Aqua 5.5 VR,2800,5.5,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,70.19
+Intex,Aqua S2,2450,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Honor,8 Smart,3000,5.2,Yes,1080,1920,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,Yes,200.39
+Honor,Holly 3,3100,5.5,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,No,No,71.99
+BlackBerry,DTEK60,3000,5.5,Yes,1440,2560,4,4000,32.0,21.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,203.99
+Xiaomi,Mi Max Prime,4850,6.44,Yes,1080,1920,6,4000,128.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.99
+Lyf,Wind 4S,4000,5.0,Yes,720,1820,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.98
+Lyf,Flame 7s,1800,4.0,Yes,480,800,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,No,Yes,42.95
+Zen,Cinemax Force,2900,5.5,Yes,854,480,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+Intex,Aqua Strong 5.2,2800,5.0,Yes,480,854,4,2000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.39
+Vivo,Y55L,2730,5.2,Yes,1280,720,8,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,1,No,No,125.40
+Google,Pixel,2770,5.0,Yes,1080,1920,4,4000,32.0,12.3,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,267.59
+Karbonn,Titanium 3-D Plex,2300,5.0,Yes,480,854,1,512,4.0,3.2,0.3,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Intex,Aqua Pro 4G,2000,4.5,Yes,480,854,1,1000,8.0,5.0,2.0,Android,No,Yes,Yes,2,No,No,54.38
+Gionee,P7 Max,3100,5.5,Yes,720,1080,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,No,71.99
+Coolpad,Note 5,4010,5.5,Yes,1080,1920,8,4000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,144.60
+Lava,A97,2350,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,66.00
+Samsung,Galaxy On8,3300,5.5,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Micromax,Canvas 5 Lite,2000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,51.59
+Panasonic,P77,2000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,No,Yes,83.88
+Lava,A56,1850,5.0,Yes,480,854,2,512,4.0,5.0,0.3,Android,Yes,Yes,No,2,No,No,27.59
+Lava,X28,2600,5.5,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,76.80
+Micromax,Bolt Q326+,1400,4.0,Yes,480,800,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,38.34
+HTC,Desire 10 Lifestyle,2700,5.5,Yes,720,1280,4,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,192.00
+Samsung,Galaxy J5 Prime,2400,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,149.99
+Videocon,Cube 3,3000,5.0,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,99.00
+Zopo,Color F1,2300,5.5,Yes,720,1280,4,1000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,52.00
+Lenovo,A7700,2900,5.5,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.88
+Lenovo,A6600 Plus,2300,5.0,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,87.60
+Lenovo,A6600,2300,5.0,Yes,720,1280,4,1000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.40
+Zen,Admire Star,2000,4.5,Yes,480,854,4,512,8.0,5.0,1.3,Android,Yes,Yes,Yes,2,Yes,No,33.59
+Samsung,Galaxy Folder 2,1950,3.8,No,480,800,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,1,No,Yes,203.88
+Xolo,Era 1X,2500,5.0,Yes,1280,720,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,61.79
+Intex,Aqua Costa,2200,5.0,Yes,480,854,4,2000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+Intex,Aqua Q7N Pro,2000,4.5,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,32.40
+Lyf,Water 10,2300,5.0,Yes,720,1280,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,48.72
+Vivo,Y21L,2000,4.5,Yes,480,854,4,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,85.20
+Intex,Cloud Tread,2200,5.0,Yes,720,1280,6,2000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,51.59
+InFocus,Bingo 50+,2600,5.5,Yes,1280,720,4,3000,16.0,13.0,8.0,Android,Yes,Yes,No,2,No,Yes,77.99
+Samsung,Z2,1500,4.0,Yes,480,800,4,1000,8.0,5.0,0.3,Tizen,Yes,Yes,Yes,2,Yes,Yes,43.19
+Yu,reka S,3000,5.2,Yes,1080,1920,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,84.00
+Yu,nique Plus,2000,4.7,Yes,720,1280,4,2000,8.0,8.0,2.0,Android,Yes,No,Yes,2,Yes,Yes,74.39
+Celkon,Millennia Ufeel,2000,5.0,Yes,480,854,4,1000,8.0,5.0,3.2,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Intex,Aqua Eco 4G,1400,4.0,No,480,800,4,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,1,Yes,Yes,47.88
+Intex,Aqua Viturbo,2000,4.0,No,480,800,4,512,4.0,5.0,0.3,Android,Yes,Yes,No,1,No,No,59.99
+Lyf,Wind 7,2250,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Lyf,Flame 7,1750,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,29.99
+Intex,Aqua Music,3400,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Asus,ZenFone Go (ZB450KL),2070,4.5,Yes,480,854,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Lyf,Flame 8,2000,4.5,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,30.54
+Lyf,Wind 3,2920,5.5,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Micromax,Unite 4 Plus,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.98
+Swipe,Konnect Plus,3000,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,35.88
+Lava,X38,4000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,74.39
+Lyf,Wind 2,2850,6.0,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.94
+Intex,Aqua Strong 5.1,2800,5.0,Yes,480,854,1,1000,8.0,5.0,2.0,Android,No,Yes,Yes,2,Yes,Yes,55.20
+Lenovo,Vibe K5 Note,3500,5.5,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.88
+Panasonic,Eluga Arc 2,2450,5.0,Yes,720,1280,4,3000,32.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,67.19
+Panasonic,T44 Lite,2400,4.0,Yes,800,480,4,512,8.0,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,26.28
+Intex,Cloud String v2.0,2200,5.0,Yes,1280,720,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,1,Yes,No,77.99
+Lyf,Water 8,2600,5.0,Yes,720,1280,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,94.80
+Karbonn,Fashion Eye,2000,5.0,No,1280,720,4,1000,8.0,8.0,3.2,Android,Yes,Yes,No,2,Yes,No,39.35
+Samsung,Galaxy J2 Pro,2600,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,125.76
+InFocus,M535+,2600,5.5,Yes,1080,1920,8,3000,16.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,72.00
+Intex,Aqua Ring,2450,5.0,Yes,720,1280,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,59.96
+Lava,A32,1500,4.0,Yes,480,800,1,256,0.512,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,23.99
+Lava,A68,1750,4.5,Yes,480,800,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,83.99
+Intex,Aqua Q7N,2000,4.5,Yes,480,854,4,512,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,29.86
+Intex,Aqua Pride,2800,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,46.64
+Lava,X17,2350,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,79.20
+Lyf,Water 4,2920,5.0,Yes,720,1280,1,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Asus,ZenFone 3 Max (ZC520TL),4100,5.2,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.88
+Karbonn,Aura Power,4000,5.0,Yes,480,854,1,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,39.59
+Samsung,Galaxy On7 Pro,3000,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.88
+Samsung,Galaxy On5 Pro,2600,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.76
+Samsung,Galaxy J2 (2016),2600,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,71.88
+Intex,Aqua Power 4G,3800,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.94
+Nubia,N1,5000,5.5,Yes,1080,1920,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,143.99
+Panasonic,Eluga Note,3000,5.5,Yes,1080,1920,8,3000,32.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,131.88
+TCL,560,2500,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.87
+Karbonn,A91 Storm,2200,4.0,Yes,480,800,4,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,23.99
+Vivo,X7,3000,5.2,Yes,1080,1920,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+iBall,Andi 5G Blink 4G,2300,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.68
+Nubia,Z11,3000,5.5,Yes,1080,1920,4,6000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,251.99
+Lyf,Earth 2,2500,5.0,Yes,1080,1920,8,3000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.88
+Intex,Aqua Classic,2100,5.0,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,57.48
+Micromax,Canvas Fire 5,2500,5.5,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,88.67
+Oppo,A37,2630,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,103.99
+Intex,Aqua Sense 5.1,2500,5.0,Yes,480,854,4,512,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,31.90
+Panasonic,P75,5000,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,65.99
+Xiaomi,Redmi 3S,4100,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,78.00
+Intex,Aqua View,2200,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.79
+Lyf,Water 7,3000,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,5.93
+Lyf,Wind 1,2300,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,84.00
+Panasonic,T44,2400,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,43.08
+Panasonic,T30,1400,4.0,Yes,480,800,4,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,29.86
+Lenovo,Phab 2,4050,6.4,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,107.99
+Lenovo,Phab 2 Pro,4050,6.4,Yes,1440,2560,8,4000,64.0,16.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,275.99
+Lava,X81,2700,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Lyf,Wind 5,2000,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,100.79
+Lava,X46,2500,5.0,Yes,720,1280,4,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,116.40
+Intex,Cloud Glory 4G,1800,4.5,Yes,480,584,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Samsung,Galaxy J3 Pro,2600,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,99.59
+Lyf,Flame 6,1750,4.0,Yes,480,800,4,512,4.0,2.0,2.0,Android,Yes,Yes,No,2,Yes,Yes,23.99
+Swipe,Elite Plus,3050,5.0,Yes,1080,1920,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+Lava,A82,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,107.99
+Intex,Aqua Shine 4G,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,54.00
+LG,Stylus 2 Plus,3000,5.7,Yes,1080,1920,8,3000,16.0,16.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,107.99
+LG,X Power,4100,5.3,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Lyf,Flame 4,1400,4.0,Yes,480,800,4,512,8.0,2.0,0.3,Android,Yes,Yes,No,2,Yes,Yes,50.39
+Zen,Admire SXY,1800,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,31.67
+Lava,A59,1750,4.5,Yes,480,800,4,512,4.0,5.0,0.3,Android,Yes,Yes,No,2,Yes,No,50.39
+Lava,A48,1300,4.0,Yes,480,800,4,512,4.0,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,28.79
+Panasonic,Eluga A2,4000,5.0,Yes,720,1280,4,3000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.16
+Lava,A79,2200,5.5,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,50.40
+Micromax,Canvas Selfie 4,2500,5.0,Yes,720,1280,4,1000,8.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,No,71.64
+Micromax,Bolt Selfie,1750,4.5,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,51.59
+Intex,Cloud String HD,2200,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Intex,Aqua Secure,1900,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,58.39
+Motorola,Moto G4 Play,2800,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.88
+Sony,Xperia XA Ultra,2700,6.0,Yes,1080,1920,8,3000,16.0,21.5,16.0,Android,Yes,Yes,Yes,1,Yes,Yes,95.99
+Lenovo,Vibe C,2300,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,54.00
+HTC,Desire 628 Dual SIM,2200,5.0,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.98
+Lyf,Wind 4,4000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.99
+Lyf,Flame 2,1500,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,43.19
+Lava,A67,2000,5.0,Yes,480,800,4,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,40.79
+Micromax,Canvas XP 4G,2000,5.0,Yes,720,1280,4,3000,16.0,8.0,2.0,Android,No,No,No,2,Yes,Yes,55.14
+Intex,Cloud Fame,1800,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,No,2,Yes,Yes,47.39
+Intex,Aqua Joy,1450,4.0,Yes,480,800,4,512,4.0,0.3,0.3,Android,Yes,Yes,Yes,2,Yes,No,31.99
+HTC,Desire 830,2800,5.5,Yes,1080,1920,8,3000,32.0,13.0,4.0,Android,Yes,Yes,No,1,Yes,Yes,95.99
+Micromax,Canvas Mega 2,3000,6.0,Yes,540,960,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,90.36
+iBall,Andi 5N Dude,2000,5.0,Yes,480,854,4,512,4.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,23.99
+Honor,5C,3000,5.2,Yes,1080,1920,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,No,119.99
+Panasonic,Eluga I3,2700,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,66.59
+Swipe,Elite Note,3000,5.5,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,90.00
+Asus,ZenFone Go 4.5 (ZB452KG),2070,4.5,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Intex,Aqua 4.5 Pro,1500,4.5,Yes,480,854,4,1000,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,57.00
+ZTE,Blade A910,2540,5.5,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+ZTE,Blade V7 Max,3000,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,54.00
+LeEco,Le 2 Pro,3000,5.5,Yes,1080,1920,10,4000,32.0,21.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,70.68
+Nubia,Z11 mini,2800,5.0,Yes,1080,1920,8,3000,64.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Gionee,Pioneer P5W,2000,5.0,Yes,720,1280,4,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,57.60
+Yu,reka Note,4000,6.0,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+Videocon,Krypton V50DA,3000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,48.07
+HTC,10 Lifestyle,3000,5.2,Yes,1440,2560,8,3000,32.0,12.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,117.01
+Meizu,m3 note,4100,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,No,2,Yes,Yes,63.48
+Reach,Opulent,2500,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,32.28
+Asus,Zenfone Go 5.0 LTE,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.88
+Gionee,Pioneer P5 mini,1850,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,59.99
+Samsung,Galaxy A9 Pro,5000,6.0,Yes,1080,1920,8,4000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,239.76
+Intex,Cloud Gem+,1400,4.0,Yes,480,800,4,512,4.0,2.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,26.39
+Samsung,Galaxy J7 (2016),3300,5.5,Yes,720,1080,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,161.40
+Samsung,Galaxy J5 (2016),3100,5.2,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+Vivo,Y31L,2200,4.7,Yes,540,960,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,103.19
+Reach,Cogent,2000,4.0,Yes,480,800,4,1000,8.0,3.2,1.3,Android,Yes,Yes,No,2,Yes,No,26.40
+Lava,V2s,2500,5.0,Yes,720,1280,4,2000,8.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,54.00
+Videocon,Krypton V50FG,2200,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,79.20
+Lava,A52,1200,4.0,Yes,480,800,2,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,23.99
+Intex,Cloud Force,2500,5.0,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,40.00
+Intex,Aqua 4G Strong,1700,4.0,Yes,480,800,4,768,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,78.00
+Lava,Flair S1,1750,4.5,Yes,480,854,2,512,8.0,3.2,0.3,Android,Yes,Yes,Yes,2,Yes,No,23.99
+InFocus,Bingo 20 (M425),2300,4.5,Yes,850,480,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.88
+Panasonic,T50,1600,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,81.12
+Intex,Aqua Twist,2200,5.0,Yes,480,854,4,1000,8.0,5.0,0.0,Android,Yes,Yes,Yes,2,Yes,No,41.99
+mPhone,8,3050,5.5,Yes,1080,1920,8,4000,64.0,21.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.99
+mPhone,7 Plus,2600,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,88.79
+Intex,Cloud Breeze,2300,5.0,Yes,480,854,2,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+Lyf,Wind 6,2250,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,41.99
+Blu,Life Mark,2300,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+Zopo,Speed 8,3600,5.5,Yes,1080,1920,10,4000,32.0,21.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.76
+Xolo,Era X,2500,5.0,Yes,720,1280,4,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,54.71
+Intex,Aqua Fish,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,2.0,Sailfish,Yes,Yes,Yes,2,Yes,Yes,57.59
+ZTE,Blade V7 Lite,2500,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,46.08
+Sony,Xperia X,2620,5.0,Yes,1080,1920,1,3000,32.0,23.0,13.0,Android,Yes,Yes,Yes,1,Yes,Yes,239.88
+Sony,Xperia XA,2300,5.0,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,95.93
+HTC,Desire 825,2700,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,94.68
+HTC,Desire 630,2200,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,123.59
+HP,Elite x3,4150,5.96,Yes,1440,2560,4,4000,64.0,15.0,8.0,Windows,Yes,Yes,Yes,1,Yes,Yes,1064.63
+Alcatel,Idol 4,2610,5.2,Yes,1080,1920,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,203.99
+Intex,Aqua Ace Mini,3000,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,82.19
+Swipe,Konnect 5.1,3000,5.0,Yes,480,854,4,1000,8.0,8.0,3.2,Android,Yes,Yes,Yes,2,Yes,No,49.19
+LG,Stylus 2,3000,5.7,Yes,720,1280,4,1000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,95.99
+Intex,Cloud Crystal 2.5D,2200,5.0,Yes,720,1280,4,3000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,81.60
+Intex,Aqua Freedom,3000,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,37.19
+Microsoft,Lumia 650,2000,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Windows,Yes,Yes,Yes,1,Yes,Yes,119.88
+LG,X cam,2520,5.2,Yes,1080,1920,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,96.00
+Intex,Aqua Craze,2500,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.99
+Intex,Aqua Lite,1400,4.0,Yes,480,800,4,512,4.0,2.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,33.59
+Lava,X11,2500,5.0,Yes,720,1280,4,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.76
+Lava,A88,2000,5.0,Yes,720,1280,4,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.39
+Lenovo,Vibe P1 Turbo,5000,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,92.15
+Lava,A71,2500,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.88
+Intex,Aqua Wing,1500,4.0,Yes,480,800,1,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,35.88
+Intex,Aqua Raze,1800,4.5,Yes,480,854,1,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.99
+Panasonic,P66 Mega,3200,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,No,Yes,2,Yes,No,63.59
+Lyf,Flame 1,2000,4.5,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,65.99
+Lava,X3,2500,5.0,Yes,720,1280,4,2000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Zopo,Hero 1,2500,5.0,Yes,720,1280,4,2000,16.0,13.2,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,144.00
+iBall,Cobalt 5.5F Youva,2600,5.5,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,91.19
+Micromax,Canvas Juice 4,3000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,47.94
+Vivo,Y51L,2350,5.0,Yes,540,960,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,109.19
+Lava,V5,3000,5.5,Yes,720,1280,4,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,99.00
+Lyf,Water 2,2400,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,93.00
+Lyf,Water 1,2600,5.0,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.60
+Lenovo,K5 Note,3500,5.5,Yes,1080,1920,8,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.88
+Panasonic,Eluga Turbo,2350,5.0,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,167.86
+Swipe,Virtue,2500,5.0,No,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,43.19
+Lava,P7,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,No,2,Yes,No,41.39
+Intex,Aqua Air II,2300,5.0,Yes,480,854,2,1000,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,56.28
+Lava,Iris Atom,1550,4.0,Yes,480,800,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,62.39
+Intex,Cloud 4G Smart,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.32
+Intex,Cloud 3G Gem,1400,4.0,Yes,480,800,1,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,28.79
+Intex,Cloud 3G Candy,1400,4.0,Yes,480,800,1,256,0.512,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,23.99
+Lenovo,A7000 Turbo,2900,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,168.00
+Karbonn,K9 Smart,2300,5.0,Yes,480,854,4,512,8.0,3.2,1.3,Android,Yes,Yes,Yes,2,Yes,No,56.28
+Alcatel,Pixi 4 (6),2580,6.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.98
+LG,K7,2125,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,1,Yes,No,11.93
+LG,K10,2300,5.3,Yes,720,1280,4,1000,8.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,No,47.93
+Intex,Cloud Champ,1700,4.5,Yes,480,854,2,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,45.60
+Lava,Iris Atom 3,2000,5.0,Yes,480,854,4,512,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,34.79
+Intex,Aqua Q7 Pro,2000,4.5,Yes,480,854,4,1000,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,51.48
+Karbonn,Titanium Moghul,2000,5.0,Yes,540,960,4,1000,8.0,8.0,3.2,Android,Yes,Yes,Yes,2,Yes,No,104.40
+Xolo,One HD,2300,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,95.99
+Zen,Cinemax 2,2900,5.5,Yes,540,960,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,44.87
+Videocon,Z55 Krypton,2200,5.0,Yes,720,1280,4,1000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,35.40
+Intex,Aqua Star 4G,2000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,56.39
+Intex,Cloud Cube,2000,4.5,Yes,480,854,4,512,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,26.39
+Kult,10,2350,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Micromax,Canvas Pulse 4G,2100,5.0,Yes,720,1280,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,49.80
+Asus,ZenPad C 7.0 (Z170MG),3450,7.0,No,1024,600,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,74.39
+Xiaomi,Redmi Note Prime,3100,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+iBall,Andi 5.5H Weber,2200,5.5,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,No,No,47.99
+Micromax,Canvas Mega 4G,2500,5.5,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,57.48
+Micromax,Canvas Fire 4G+,2000,4.7,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,59.88
+Gionee,P5W,2000,5.0,Yes,720,1280,8,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,83.99
+ZTE,Blade A1,2800,5.0,Yes,720,1280,8,2000,16.0,13.0,8.0,Android,Yes,Yes,No,2,Yes,No,34.80
+Panasonic,Eluga Mark,2500,5.5,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.88
+Samsung,Galaxy A7 (2016),3300,5.5,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,119.99
+Videocon,Z55 Delite,2200,5.0,Yes,720,1280,8,1000,8.0,8.0,5.0,Android,Yes,Yes,No,2,Yes,No,76.68
+Videocon,Infinium Z45 Amaze,1600,4.5,Yes,480,854,4,1000,8.0,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,35.99
+Micromax,Canvas Pace 4G,2500,5.0,Yes,854,480,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,89.99
+Lava,X10,2900,5.0,Yes,720,1280,4,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,144.00
+Intex,Cloud Zest,4000,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,59.99
+Lava,Iris Atom 2X,2000,4.5,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,35.99
+Samsung,Galaxy J3 (6),2600,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,59.99
+Intex,Aqua Air,2300,5.0,Yes,480,854,2,512,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,49.08
+Micromax,Canvas Xpress 4G,2000,5.0,Yes,720,1280,4,2000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,48.60
+Micromax,Canvas Blaze 4G+,1750,4.5,Yes,480,854,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,45.59
+Intex,Aqua Super,2150,5.0,Yes,720,1280,4,3000,16.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,70.19
+Intex,Aqua Wave,1400,4.0,Yes,480,800,1,256,0.512,0.3,0.3,Android,Yes,Yes,Yes,2,Yes,No,26.39
+Intex,Aqua Q7,2000,4.5,Yes,480,854,4,512,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,26.39
+iBall,Andi Sprinter 4G,2100,5.0,Yes,480,854,4,1000,8.0,8.0,3.2,Android,Yes,Yes,Yes,2,Yes,Yes,56.39
+Gionee,S Plus,3150,5.5,Yes,720,1280,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,77.88
+InFocus,M535,2600,5.5,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.88
+HTC,Desire 828 Dual SIM,2800,5.5,Yes,1080,1920,8,2000,16.0,13.0,4.0,Android,Yes,Yes,Yes,2,Yes,Yes,95.99
+HTC,Desire 728G Dual SIM,2800,5.5,Yes,720,1280,8,1000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,139.03
+Intex,Aqua Young,2500,5.0,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,58.80
+Intex,Aqua Play,1400,4.0,Yes,480,800,2,512,8.0,0.3,0.3,Android,Yes,Yes,Yes,2,Yes,No,51.59
+Xolo,Black 1X,2400,5.0,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.99
+InFocus,M260,2000,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,29.88
+Karbonn,Alfa A91 Power,2000,4.0,Yes,480,800,1,256,0.512,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,31.19
+Oppo,Neo 7,2420,5.0,Yes,540,960,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,98.40
+Samsung,Galaxy On7,3000,5.5,Yes,720,1280,4,1000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,119.72
+Micromax,Bolt Q332,2000,5.0,Yes,480,854,4,512,2.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,28.79
+Samsung,Galaxy On5,2600,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,55.86
+Lenovo,A1000,2000,4.0,Yes,480,800,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,42.59
+Lenovo,A6000 Shot,2300,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.88
+Lava,Iris Fuel F1,4000,5.0,Yes,480,854,4,2000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,104.40
+Intex,Aqua Life III,2000,5.0,Yes,720,1280,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,63.60
+Intex,Cloud Swift,2500,5.0,Yes,720,1280,4,3000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,111.60
+Zopo,Speed 7 Plus,3000,5.5,Yes,1080,1920,8,3000,16.0,13.2,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,77.99
+Micromax,Bolt S302,1450,4.0,Yes,480,800,4,512,4.0,2.0,1.3,Android,Yes,Yes,Yes,2,Yes,No,26.88
+Micromax,Bolt Q331,2000,5.0,Yes,480,854,4,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+Samsung,Z3,2600,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Tizen,Yes,Yes,Yes,2,Yes,No,59.88
+Panasonic,P65 Flash,2910,5.5,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,101.99
+Panasonic,P50 Idol,2150,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,46.79
+ZTE,Axon Mini,2800,5.2,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,70.80
+iBall,Andi 4.5C Magnifico,1700,4.5,Yes,480,854,2,512,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,46.08
+Microsoft,Lumia 550,2100,4.7,Yes,720,1280,4,1000,8.0,5.0,2.0,Windows,Yes,Yes,Yes,1,Yes,Yes,64.78
+Microsoft,Lumia 950,3000,5.2,Yes,1440,2560,6,3000,32.0,20.0,5.0,Windows,Yes,Yes,Yes,1,Yes,Yes,496.68
+Microsoft,Lumia 950 XL,3340,5.7,Yes,1440,2560,8,3000,32.0,20.0,5.0,Windows,Yes,Yes,Yes,1,Yes,Yes,299.99
+Micromax,Bolt Q339,1650,4.5,Yes,480,854,4,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+LG,V10,3000,5.7,Yes,1440,2560,6,4000,64.0,16.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,179.99
+Videocon,Infinium Z51 Punch,3000,5.0,Yes,480,854,4,1000,1.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,64.79
+Videocon,Infinium Z51Q Star,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,33.59
+Vivo,Y15S,1900,4.5,Yes,854,480,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,59.99
+Samsung,Galaxy J1 Ace,1800,4.3,Yes,480,800,2,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,51.60
+Vivo,Y27L,2260,4.7,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,108.01
+Micromax,Canvas Play 4G,2820,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,53.99
+Lava,Iris Fuel F1 Mini,2000,4.0,Yes,480,800,1,512,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,29.99
+Micromax,Canvas Blaze 4G,2000,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,38.39
+Gionee,Pioneer P3S,2000,4.5,Yes,480,485,4,1000,16.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,39.59
+Micromax,Bolt Q338,2000,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,59.64
+Intex,Aqua Power II,4000,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,71.88
+Micromax,Canvas Juice 3+,4000,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,71.88
+Intex,Aqua Glam,1850,4.7,Yes,720,1280,4,1000,8.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,No,51.54
+iBall,Cobalt Solus 4G,2000,5.0,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Micromax,Canvas Juice 3,4000,5.0,Yes,720,1280,4,2000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,51.48
+HTC,Desire 728 Dual SIM,2800,5.5,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,71.99
+Lenovo,Vibe P1m,3900,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,83.99
+Sony,Xperia Z5 Premium Dual,3430,5.5,Yes,2160,3840,8,3000,32.0,23.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,690.00
+Acer,Liquid Z530,2420,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,69.00
+Micromax,Canvas Fire 4G,1850,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.99
+Intex,Cloud V,2000,5.0,Yes,480,854,4,512,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,44.39
+iBall,Andi 4.5 O'Buddy,1800,4.5,Yes,480,854,4,1000,1.0,8.0,3.2,Android,Yes,Yes,Yes,2,Yes,No,59.94
+Videocon,Z55 Dash,2200,5.0,Yes,720,1280,8,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,65.99
+Intex,Aqua Turbo 4G,3000,5.0,Yes,720,1280,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,67.79
+Zopo,Speed 7,2500,5.0,Yes,1080,1920,8,3000,16.0,13.2,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.88
+Panasonic,Eluga Switch,2910,5.5,Yes,1080,1920,8,2000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,179.88
+Intex,Aqua 3G Neo,1500,4.0,Yes,480,800,4,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,28.79
+Lenovo,A2010,2000,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,72.00
+Lava,Flair P1i,1400,4.0,Yes,400,800,1,256,0.512,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,26.66
+Panasonic,T45 4G,1800,4.5,Yes,480,854,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,55.80
+Panasonic,Eluga I2,2000,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,69.96
+Panasonic,Eluga L2,2500,5.5,Yes,540,960,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,47.88
+Lava,Iris Atom 2,1750,4.5,Yes,854,480,4,512,8.0,5.0,0.3,Android,Yes,Yes,No,1,Yes,No,51.59
+iBall,Andi 5U Platino,2000,5.0,Yes,540,960,4,512,8.0,8.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,41.99
+Intex,Aqua Sense 5.0,2000,5.0,Yes,540,960,4,512,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,46.79
+Philips,Xenium S309,1600,4.0,Yes,480,800,2,512,4.0,5.0,0.3,Android,Yes,Yes,Yes,1,Yes,No,38.39
+Intex,Cloud Pace,1700,4.5,Yes,540,960,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,53.99
+Blu,Win HD LTE,2500,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Windows,Yes,Yes,No,2,Yes,Yes,54.00
+Intex,Aqua Q1+,1600,4.5,Yes,480,854,4,512,8.0,5.0,1.3,Android,Yes,Yes,Yes,2,Yes,No,53.39
+Intex,Aqua Dream II,2300,5.5,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,98.40
+Asus,ZenFone 2 Laser (ZE601KL),3000,6.0,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,107.99
+Intex,Cloud 4G Star,2300,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,No,Yes,71.99
+Lava,Iris X5 4G,2500,5.0,Yes,720,1280,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,83.99
+Asus,ZenFone 2 Laser (ZE500KL),2070,5.0,Yes,720,1280,4,2000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,71.88
+Sony,Xperia M5,2600,5.0,Yes,1080,1920,8,3000,16.0,21.5,13.0,Android,Yes,Yes,Yes,1,Yes,Yes,71.99
+Sony,Xperia C5 Ultra,2930,6.0,Yes,1080,1920,8,2000,16.0,13.0,13.0,Android,Yes,Yes,Yes,1,Yes,Yes,311.88
+Lava,Iris X1 Selfie,2000,4.5,Yes,854,480,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+InFocus,M808,2450,5.2,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,No,1,Yes,Yes,53.88
+Panasonic,Love T10,1400,3.5,Yes,480,800,2,512,4.0,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,24.00
+iBall,Andi HD6,3000,6.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,No,2,Yes,No,60.00
+Lava,Flair Z1,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,35.99
+Intex,Aqua Y2 Power,2900,4.0,Yes,480,800,4,512,4.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,48.60
+LG,Max,2540,5.0,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,47.99
+Karbonn,Titanium Mach One Plus,1800,4.7,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,47.88
+Panasonic,T33,1500,4.0,Yes,480,800,4,512,4.0,3.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,35.88
+iBall,Andi 3.5V Genius2,1250,3.5,Yes,320,480,1,256,0.512,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,29.99
+Spice,XLife 406,1450,4.0,Yes,480,800,1,512,4.0,3.2,1.3,Android,Yes,Yes,Yes,2,Yes,No,42.00
+Micromax,Bolt D303,1300,4.0,Yes,480,800,2,512,4.0,3.2,0.3,Android,Yes,Yes,Yes,2,Yes,No,35.81
+Vivo,V1,2300,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,183.60
+Panasonic,Eluga Z,2050,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,66.35
+Xolo,Era,2100,5.0,Yes,854,480,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,44.39
+Intex,Aqua Y2 Ultra,1400,4.0,Yes,480,800,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,43.19
+Intex,Aqua A2,1500,4.0,Yes,480,800,4,512,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,31.19
+Videocon,Infinium Z51 Nova+,2000,5.0,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,No,35.28
+Intex,Aqua Y4,1700,4.5,Yes,480,854,2,512,4.0,5.0,2.0,Android,Yes,Yes,No,2,Yes,No,35.99
+iBall,Andi4 B20,1250,4.0,Yes,480,800,1,256,0.512,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,29.98
+iBall,Andi Avonte 5,2150,5.0,Yes,480,854,4,1000,8.0,8.0,0.0,Android,Yes,Yes,Yes,2,Yes,No,47.99
