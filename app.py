@@ -20,8 +20,6 @@ st.image(image)
 def app():
     st.title('PhoneRecom')
 
-    st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
-
     in_perf = st.slider('How important is performance for you? [1-5]', min_value=1, max_value=5)
     in_cam = st.slider('How important is camera quality for you? [1-3]', min_value=1, max_value=3)
     in_size = st.slider('How important is size for you? [1-3]', min_value=1, max_value=3)
