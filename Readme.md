@@ -20,3 +20,4 @@
 
 ### Applying_rf: Since it was part of the final project on this notebook the Random Forest model was used to predict the prices of the phones, also the Grid Search was used to refine the best parameters for the Random Forest.
 
+### Data set source: https://www.kaggle.com/datasets/pratikgarai/mobile-phone-specifications-and-prices
